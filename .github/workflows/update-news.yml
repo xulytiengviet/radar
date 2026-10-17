@@ -1,5 +1,10 @@
 name: Update RADAR RSS
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_news.py'
+      - '.github/workflows/update-news.yml'
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
@@ -14,16 +19,20 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python scripts/update_news.py
-      - name: Commit refreshed news
+      - name: Download current RSS data
+        run: python scripts/update_news.py
+      - name: Commit refreshed data
         run: |
           git config user.name radar-news-bot
           git config user.email radar-news-bot@users.noreply.github.com
           git add data/news.json
           if ! git diff --cached --quiet; then
-            git commit -m "data: update public RSS feeds"
-            git push
+            git commit -m "data: refresh public RSS feeds"
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi

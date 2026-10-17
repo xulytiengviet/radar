@@ -1,0 +1,29 @@
+name: Update RADAR RSS
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: radar-update
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/update_news.py
+      - name: Commit refreshed news
+        run: |
+          git config user.name radar-news-bot
+          git config user.email radar-news-bot@users.noreply.github.com
+          git add data/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: update public RSS feeds"
+            git push
+          fi

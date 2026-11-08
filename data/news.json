@@ -1,9 +1,36 @@
 {
-  "updated_at": "2026-11-08T16:54:54.070300+00:00",
+  "updated_at": "2026-11-08T20:55:21.621821+00:00",
   "status": "ok",
-  "collected_count": 292,
+  "collected_count": 305,
   "feed_failures": [],
   "articles": [
+    {
+      "id": "8df66e11d13d3244433c",
+      "title": "Thị trường công nghệ đối mặt phép thử lớn - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHVjg1RURINi1nYlhoSy1yU3BGODVKYU1lWVdzd2FKRzZXRmlNS1hVV3l2a21hRWlQVVFpZVR2VnE1aFgyNV8taHJxck1nYU9jSUVIZVprYktWRGgxUzliMHFmV1daWUNjXzM2T015ZDd2QQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-08T18:41:26+00:00",
+      "summary": "Thị trường công nghệ đối mặt phép thử lớn Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "10d946c37670215e6b54",
+      "title": "Từ AI đến lượng tử: Tổng Bí thư, Chủ tịch nước 'đặt hàng' trí thức Việt tại Nhật Bản - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmpWeGhSWjBPLXIzb0RJNjFULURpYjlBUGNRNEVTZW0zZzBVWXJxZU10bzZuZzQzS1VxRHVraGNwUzR4dDlIeGJjTG54RE1JOXpvM0czaXhCWnVXQk11ZEVSMDJzXzZ4M2hKRklvLTZ4TmtwVW1USGJ0VERrdW0wcGxoOEJMUXBTb1FhaEJqcXJCd2pLN1JCZ1Y5ZmlxS216Q0VtLXVB?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-08T17:17:54+00:00",
+      "summary": "Từ AI đến lượng tử: Tổng Bí thư, Chủ tịch nước 'đặt hàng' trí thức Việt tại Nhật Bản Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "1cdf3e1ec4128c614b78",
+      "title": "Tiến sĩ Toán giật mình vì AI 'bịa' tài liệu, bài báo khoa học - VnExpress",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHRVQWdidGhjdVRDd1F5aUtwenFzVlBkZ1B6bHJ0VzlLaURnbWFscl85T3pCSVZPV1cyNU9uYndYMmg2TUZIbU9ieXBMUVBMZFNSalNHZUE0Rk9CUU9kQ29HUDVKOVdfYVNRUlhrQVFYZEV4aF9lSHVCRHRKREVOM21Kd2wwNVl3LU03dnFoZHFaaDdSb0tUWQ?oc=5",
+      "source": "VnExpress",
+      "published": "2026-11-08T17:02:00+00:00",
+      "summary": "Tiến sĩ Toán giật mình vì AI 'bịa' tài liệu, bài báo khoa học VnExpress",
+      "topic": "ai"
+    },
     {
       "id": "0b01f902a217591fcffd",
       "title": "Máy bay không người lái hình chim của Ornadyne được ghi nhận là chim trong cuộc thử nghiệm phát hiện của Không quân - news.lavx.hu",
@@ -245,6 +272,15 @@
       "source": "Vietnam+ (VietnamPlus)",
       "published": "2026-11-08T12:46:38+00:00",
       "summary": "Tổng Bí thư-Chủ tịch nước Tô Lâm gặp gỡ đại diện chuyên gia, trí thức Việt Nam tại Nhật Bản Vietnam+ (VietnamPlus)",
+      "topic": "science"
+    },
+    {
+      "id": "76108e5ac6cab31e3cf6",
+      "title": "Tự hào hành trình từ lò cao kháng chiến đến ngành luyện kim hiện đại Việt Nam - vusta.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3pLNUVNRkdNZ19MSTMzTzRHeTdpWEs5QkhrMjc0cnJDZkNwWG8zenZjMkFrSWZkRzRaX1JjQmFZMVdYRGF3TUp6SHkwclo4emh1SDRCOGRiTGZUbmdwNHJaWURkVnF5WjM1YTZuLUtPcS1Na2V3RWZvRXA2V0g4RXpmMlVaMVlQRXhsRTNVaGV1OW1XRlRWMEd1b1ZMcXYzNmJ4VDBOQV9MZw?oc=5",
+      "source": "vusta.vn",
+      "published": "2026-11-08T12:46:00+00:00",
+      "summary": "Tự hào hành trình từ lò cao kháng chiến đến ngành luyện kim hiện đại Việt Nam vusta.vn",
       "topic": "science"
     },
     {
@@ -596,7 +632,7 @@
       "source": "CafeF",
       "published": "2026-11-08T08:34:00+00:00",
       "summary": "Phát hiện một cựu sinh viên FPT Việt Nam được trường Mỹ tài trợ 7,5 tỷ đồng tiền học kèm ăn, ở trong 5 năm: Xuất thân từ tỉnh miền núi, trở thành trợ giảng ngay khi nhập học CafeF",
-      "topic": "science"
+      "topic": "ai"
     },
     {
       "id": "0be9091252ddfc3dcc06",
@@ -834,11 +870,11 @@
     },
     {
       "id": "1338f5e6615120100e6a",
-      "title": "Mở dòng chảy công nghệ hai chiều Việt - Nhật - Báo Tuổi Trẻ",
+      "title": "Mở dòng chảy công nghệ hai chiều Việt - Nhật - Tuổi Trẻ",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc1QtM19qT3h3UG44Z0VucjBfaHJheHZReEE1TWt3MGJrV0ptdmNJdGJRWXI2aWR6ZmdONHpUYzMzOEVfaFFSeUFvTlFuaUdMcDR2Z0dwbjhPWTNrZ3pycHp2bFJMVUJIVlNNWXRYUm5PMi03TF9TeUhTZ1lRaUdjZ2Z4VWRvY1lSbjVRVw?oc=5",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "published": "2026-11-08T05:49:00+00:00",
-      "summary": "Mở dòng chảy công nghệ hai chiều Việt - Nhật Báo Tuổi Trẻ",
+      "summary": "Mở dòng chảy công nghệ hai chiều Việt - Nhật Tuổi Trẻ",
       "topic": "science"
     },
     {
@@ -992,7 +1028,7 @@
       "source": "Vietnam+ (VietnamPlus)",
       "published": "2026-11-08T03:12:00+00:00",
       "summary": "Chuyên gia nêu 3 lĩnh vực Việt Nam có khả năng tạo lợi thế trong ngành robot Vietnam+ (VietnamPlus)",
-      "topic": "ai"
+      "topic": "science"
     },
     {
       "id": "74b522cee660e09adefd",
@@ -1173,6 +1209,15 @@
       "published": "2026-11-08T01:16:00+00:00",
       "summary": "Decathlon mở cửa hàng thứ 10 tại Dĩ An GenK.vn",
       "topic": "ai"
+    },
+    {
+      "id": "bea3f5eb73423ba9fc1e",
+      "title": "Tuổi trẻ Công an nhân dân phát huy tinh thần sáng tạo, phát triển khoa học công nghệ - Công an tỉnh Sơn La",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzFYN1RvS19uNlJsQTNMRV8wS3NwS0I0bmRtR0JrLUFtSGFnOTN3aDAtZ084bGMyalJNU2hrVnpZZDgzajVRN09Wd2ltZDVwLVBBZmNENUtid1ZQem9UMTMyODVCUTgwR3VfXy1pNEU1THc5YzdlRjlQQVF2NnNZN3V6NFFiMFI0a1hDM2JLWWYwMEJhWHIyU2FlUS00ZU5nY1RGMjBOMlN4NUd4VVVPQWlR?oc=5",
+      "source": "Công an tỉnh Sơn La",
+      "published": "2026-11-08T01:14:00+00:00",
+      "summary": "Tuổi trẻ Công an nhân dân phát huy tinh thần sáng tạo, phát triển khoa học công nghệ Công an tỉnh Sơn La",
+      "topic": "science"
     },
     {
       "id": "5f611c60c92a47b12bf6",
@@ -1694,7 +1739,7 @@
       "source": "Tạp chí KH&CN Việt Nam",
       "published": "2026-11-07T14:15:01+00:00",
       "summary": "Kinh tế số Việt Nam hướng tới mốc 49 tỷ USD Tạp chí KH&CN Việt Nam",
-      "topic": "ai"
+      "topic": "science"
     },
     {
       "id": "8c01c78ccaf7aadba422",
@@ -2714,6 +2759,15 @@
       "topic": "science"
     },
     {
+      "id": "3a766c3ad90f504de1b4",
+      "title": "Ban chỉ đạo An ninh mạng quốc gia họp phiên thường kỳ thứ 2 năm 2026 - Công an thành phố Đồng Nai",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQRk5BS0Y4TG5acG52bnUxdWhENzk2YnBUNk9IbkNFXzVnc2pDVEdRUk5oN0d3dmJRekE3aEtzXy1FS004NGZRa2g1N1hLRzFRX1E1Mi11MjM2RnJFTWhqVnYzdF9TZjNHTTYzcTc4MVhUcWhGbTZmOHNzQWdENlU?oc=5",
+      "source": "Công an thành phố Đồng Nai",
+      "published": "2026-11-07T08:00:00+00:00",
+      "summary": "Ban chỉ đạo An ninh mạng quốc gia họp phiên thường kỳ thứ 2 năm 2026 Công an thành phố Đồng Nai",
+      "topic": "security"
+    },
+    {
       "id": "7125874d392e179cc06a",
       "title": "Cục An ninh mạng nói gì về thông tin người dân dự trữ nhu yếu phẩm trong 72 giờ? - Một Thế Giới",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUFIUVRoZDNhc2RtNkJReXpfTjQybDlxRFZzcGJRbEZCRW1PazU4bWlKZmRTdk9zRUNfUzBOSWE1eWNVVVlZUHVuWnlZLW13Y1VOVk8tY3liYnpEMEhGb0FtMUtyc1BVNjFkdmRSMXpTcDNjQllWcWl3bzNCUWNzeDNYLTBqWGg5VTY3ejFrc2pRQjlVYVNWb01pV25OZDdBY1ctM194OUszcWtJbnpMaw?oc=5",
@@ -2922,11 +2976,11 @@
     },
     {
       "id": "a5893d05be22e1658d86",
-      "title": "19 đề tài nghiên cứu của sinh viên đoạt giải nhất Giải thưởng Khoa học công nghệ năm 2026 - Báo Tuổi Trẻ",
+      "title": "19 đề tài nghiên cứu của sinh viên đoạt giải nhất Giải thưởng Khoa học công nghệ năm 2026 - Tuổi Trẻ",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS3JyTE1yajcxeUhxNGZLR3pxeTZWcC1VdFJUUDhWZmlQQ29SczdsQUdwS1JEbHBxV0lQb0w0QlJlbVVYMjB0dm02aDN0b1M5aURwQnRTRmxyMGlYTFVwR3A1dzU1OUx4ZXNRVjVJVUI2T0pBRHM5N3BCNC1yUVVKZllEd0w5UHlmNTJPYUl0QVJYQktmZlNIcmNwRG1jSTFaZmhJeEd5Ymo5N2JBb1Zic3dQVU1zWlphYTY1cXBCenVuTWxEenFFR0Q1WQ?oc=5",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "published": "2026-11-07T06:29:00+00:00",
-      "summary": "19 đề tài nghiên cứu của sinh viên đoạt giải nhất Giải thưởng Khoa học công nghệ năm 2026 Báo Tuổi Trẻ",
+      "summary": "19 đề tài nghiên cứu của sinh viên đoạt giải nhất Giải thưởng Khoa học công nghệ năm 2026 Tuổi Trẻ",
       "topic": "science"
     },
     {
@@ -3057,11 +3111,11 @@
     },
     {
       "id": "dd0ec319b30f26569019",
-      "title": "Thanh niên Đồng Nai tiên phong ứng dụng trí tuệ nhân tạo - Báo Đồng Nai",
+      "title": "Thanh niên Đồng Nai tiên phong ứng dụng trí tuệ nhân tạo - Báo Đồng Nai điện tử",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVdyLUhNSlVEdDM1WlV1TUYteFR2WUFCOFF5d25HRHhabEhjWVczaUxOb3RacU5XZjFSVHB1ZHdZNllHOXFmLWpId2FNS1gxbUVzanV4V2llQzVqbDlPSWRuYW9YTFl5QVdneUM3a3VjUTRVVjF5X28zWlVRcVBFR09zWWR0T2JoNGk2TkpNc014LVRJMnQ0WUJB?oc=5",
-      "source": "Báo Đồng Nai",
+      "source": "Báo Đồng Nai điện tử",
       "published": "2026-11-07T04:36:00+00:00",
-      "summary": "Thanh niên Đồng Nai tiên phong ứng dụng trí tuệ nhân tạo Báo Đồng Nai",
+      "summary": "Thanh niên Đồng Nai tiên phong ứng dụng trí tuệ nhân tạo Báo Đồng Nai điện tử",
       "topic": "ai"
     },
     {
@@ -4163,6 +4217,15 @@
       "topic": "science"
     },
     {
+      "id": "abc2ab2acf22dd18ed8f",
+      "title": "Cần Thơ phát triển và ứng dụng AI theo 4 định hướng trọng tâm - Tạp chí KH&CN Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS2FXWnNhUjB1ODJxNDh6MDBlSTZvUlZCMzl5b0tVWDRWNEJ1T3RNcDRlNllaeWVzeU9neTgtcFZBb1BZRzN2bHdiM2JnSk9weVBFRXFoNkpUSW1zbU9aSEw5TnFxMUphem95WklBclQ0MlVVaGRYYUlyS1N1Z19NVFNvX3lBcDBpQWgzUEVWS3JMaDA?oc=5",
+      "source": "Tạp chí KH&CN Việt Nam",
+      "published": "2026-11-06T12:59:01+00:00",
+      "summary": "Cần Thơ phát triển và ứng dụng AI theo 4 định hướng trọng tâm Tạp chí KH&CN Việt Nam",
+      "topic": "ai"
+    },
+    {
       "id": "504762b34d16a60c5835",
       "title": "Truy vết dòng tiền, chặn lừa đảo trong hệ thống ngân hàng - BÁO SÀI GÒN GIẢI PHÓNG",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnJXLV9vcG0xY3Zybjc4Y2NFbjdkZlFmQ2o3T3ZFZDZWVGZhM0g1Zm5GVHc5Y3BUNm43UUZMQW5EOG9PcjF3aHhJTHc2ZW4wNzVxVWp6V0RCRC1jVmtYazVWcm5ZZ0l1Y3pKbVYtaF9WbWRka3FIMXpsU1c0TGk2bDJNZDJxM1QwMFZ2SlJFNGJGR3k5aGtoQWtSOTg?oc=5",
@@ -4439,69 +4502,6 @@
       "source": "Một Thế Giới",
       "published": "2026-11-06T11:01:01+00:00",
       "summary": "Hệ thống ngân hàng cảnh báo 5,8 triệu lượt khách hàng về nguy cơ lừa đảo Một Thế Giới",
-      "topic": "security"
-    },
-    {
-      "id": "0822a3740580a023fb53",
-      "title": "Doanh nghiệp đối mặt rủi ro pháp lý khi ứng dụng AI - VTC News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZGFua3VuT1lvYWVjeUtIMW9lTS1ZS3IzVV9POWo5bldCOVU3ZkdsVzloa3RleGptQzdSU0I3bFl0ZThNT2xPYjhQd3VlMzE3NHJsZ2FNM3hxNFBtd0hNTHpOeF96NHQxbF9ibURETTJKUElLZ2Qwd3BMbTZiSkVhcDVHR3VKS0NTc2I1cDJ3?oc=5",
-      "source": "VTC News",
-      "published": "2026-11-06T10:59:00+00:00",
-      "summary": "Doanh nghiệp đối mặt rủi ro pháp lý khi ứng dụng AI VTC News",
-      "topic": "ai"
-    },
-    {
-      "id": "7e3e622be82a847937b8",
-      "title": "Chứng khoán toàn cầu lao dốc do lo ngại về triển vọng trung tâm dữ liệu AI - Vietnam+ (VietnamPlus)",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR05RQ1UxWFoyNmJzS1g1Z2tiVzYxTDZOTDBIdHg2WHFETHRMVGF1N05tek52a21PdmRNTjd0aFhRQnRVRS01TGFBT084cmtaQkk1TFZ1MWUteVNIYmlLZmpTZkNzbmdUMHpveUdaRDVSLUo4UW9BOXlscGJ0MHJTX1VtUC1Qd1Q5M1ROcjNnTGItcEFwVEd6V25yVzk2dnBZYll2cDVPamd3SHItM09TS2hxTjQyTUxL?oc=5",
-      "source": "Vietnam+ (VietnamPlus)",
-      "published": "2026-11-06T10:52:13+00:00",
-      "summary": "Chứng khoán toàn cầu lao dốc do lo ngại về triển vọng trung tâm dữ liệu AI Vietnam+ (VietnamPlus)",
-      "topic": "ai"
-    },
-    {
-      "id": "154e780073670988700e",
-      "title": "Cơ hội hợp tác chiến lược Việt Nam-Italy trong phát triển công nghệ robot và AI - Vietnam+ (VietnamPlus)",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmw2QlN1TzAzRzZmWTNqd21SMHptQkViSG5fM3ppeG41elR0SmVXcmJGNnlNTmZ1YTdsUDlYZ1FSYUQ5SFBvaGM2aUF6MDNwcGNmcXJSQVgxelZGRjBtZ0pBeV9uUWZXb2hLTGR4eG1DdlQ0WHdvNDVsQ1dfRElZTW02M2dlQzJCZUxmLVhFeFVXTEpTNUw4QzhfenZTSjN1VG1iV0VJamxobUZDQVRVd1NfNFNxcm80WmJfaExEYw?oc=5",
-      "source": "Vietnam+ (VietnamPlus)",
-      "published": "2026-11-06T10:50:54+00:00",
-      "summary": "Cơ hội hợp tác chiến lược Việt Nam-Italy trong phát triển công nghệ robot và AI Vietnam+ (VietnamPlus)",
-      "topic": "ai"
-    },
-    {
-      "id": "d81a1e23820a395f69f0",
-      "title": "An ninh tài chính trước sức ép từ AI và công nghệ lượng tử - Tạp chí Doanh nghiệp và Hội nhập",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSzNJdlB6alVLQ3h0TG5rOW04MzhSR0s4WGFSazlhNUd3dWRlVXZRZnhsQnBSakFsY1U0cUQ4ZU1hMGJ5eUVTUFdodXkwS3RJaEJneV9VUkJhQUZMSkxSeTNoV3FOQ0l6dS1aMlFrMGZtTkVtdG45NTVWYTVPdXJ0NmljMG1uSDRUMTZXWUlQZ1RqcXo4YU9LdldEaUJiQUhyUVE?oc=5",
-      "source": "Tạp chí Doanh nghiệp và Hội nhập",
-      "published": "2026-11-06T10:48:17+00:00",
-      "summary": "An ninh tài chính trước sức ép từ AI và công nghệ lượng tử Tạp chí Doanh nghiệp và Hội nhập",
-      "topic": "security"
-    },
-    {
-      "id": "b02715031cdd3068b2bf",
-      "title": "Đưa ngành Vật lý Việt Nam bước vào kỷ nguyên phát triển mới - Báo Tin tức và Dân tộc - TTXVN",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0kzM0J2b2VpR0ZCaFRGUXJlaTQySVIwdkphbVVOVmxRTWFfYXFabWdyNjEtOTFodkg1a3F1aWQyQkZOVDlBQ0pEcjJRTDlQMWtwZ1JSUzROcThoS3gxck5LTGlwOWtpVTd0X0E2VDJoTWc0QTMyR1NMQ3hmWU8zMGZKWGczWUNtbTZZbmxjeUJjRlZMTC1ta0JpeWo0QQ?oc=5",
-      "source": "Báo Tin tức và Dân tộc - TTXVN",
-      "published": "2026-11-06T10:33:37+00:00",
-      "summary": "Đưa ngành Vật lý Việt Nam bước vào kỷ nguyên phát triển mới Báo Tin tức và Dân tộc - TTXVN",
-      "topic": "science"
-    },
-    {
-      "id": "b2d57baec3d755a66906",
-      "title": "Giáo dục nghệ thuật góp phần nuôi dưỡng tâm hồn và bản sắc Việt - chinhsachcuocsong.vnanet.vn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaV9RVGRtSmF0ajV0UVNYclRLTTRQSW5yYUkxMGZITjVIMzc3cjBxZjIxaWlkSUY0RjNVNkdUbW80RmN1RmhWQUVjQVFHem5MOTRLZXplZkJ5WW1HdFlOWENwWjlZTnFKVGlhZ2lBRG5EU0tydjVMZ0lqSXVMOGpodFJ5VGZGSzhPTzlrT2p6OHZ1Tl9kMGNfd3h1M1hMZFA1dk4zUk91a0dYQWJvcEdLeQ?oc=5",
-      "source": "chinhsachcuocsong.vnanet.vn",
-      "published": "2026-11-06T10:33:00+00:00",
-      "summary": "Giáo dục nghệ thuật góp phần nuôi dưỡng tâm hồn và bản sắc Việt chinhsachcuocsong.vnanet.vn",
-      "topic": "science"
-    },
-    {
-      "id": "7573f7bd70429bd0d161",
-      "title": "Tài chính số trước sức ép lừa đảo thời AI - thitruongtaichinhtiente.vn",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUxuel9vNXV3Y0x3ZjJCRzhfc25UQUxWWUU0VzBOd3Y4eEV5WERyTG1aS3MzTGF6S2o2aHRsZ1FFclJPU3J0eGhaeFBacXlmSlNRSzNNbVhyVk55YjdLY0pmQzNDbW5IMS15RUtnU3Z4dWlnMGpmSnQyb2FQQXJEaVBXbHhBcWRUT1huWFUwVGw?oc=5",
-      "source": "thitruongtaichinhtiente.vn",
-      "published": "2026-11-06T10:31:01+00:00",
-      "summary": "Tài chính số trước sức ép lừa đảo thời AI thitruongtaichinhtiente.vn",
       "topic": "security"
     }
   ]

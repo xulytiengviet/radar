@@ -1,9 +1,540 @@
 {
-  "updated_at": "2026-11-22T01:56:07.690180+00:00",
+  "updated_at": "2026-11-22T09:15:25.356090+00:00",
   "status": "ok",
   "collected_count": 262,
   "feed_failures": [],
   "articles": [
+    {
+      "id": "40942aca3ce973fa93c7",
+      "title": "Cuộc thi Sáng tạo dành cho thanh thiếu niên, nhi đồng vinh danh 73 mô hình, sản phẩm sáng tạo - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1BFRzRMWTg4amJ1WGo5dktWd0luOGoyc2dWOVMwLUFveWxaRjZ0ZHp6aC14TXFZNG9NRlBRX0xZRV9PajVsV29EcFRzMjNWN2VxNFFYX2daTjlmT2E0MlBlcW9fSm15S1pYSUpBNjQxajdKWGVsbHJjNTk0YlRvRmktTWF5ejdlQXJIaTc5dXJJeDN5c2tSYkF6RFJZUTdXNzZ6ZklLYWRRdGhvWWhHeFdJRXQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T09:11:08+00:00",
+      "summary": "Cuộc thi Sáng tạo dành cho thanh thiếu niên, nhi đồng vinh danh 73 mô hình, sản phẩm sáng tạo Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "a642499f64b865ae68dd",
+      "title": "Siêu dự án AI của Nhật Bản đội vốn thêm 5 tỷ USD, tham vọng đối đầu Mỹ - Trung gặp khó - nguoiquansat.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUI1aWpzTElxVlpXVXgxdnR3b2RfWFdEVVF1LTNlWkdQQ3JvajV5STRQcV9MdVEwOFlYN1NkUE9qQ25zQ3dxYlkwaHM3RmJ5em0xRnJHZXhUbUxtS1ZTa0l5aWlCZ1hGR2hlcUpFLXdoNDVFSy1XWkRiVjlRN2xaWk1zRDhhU0xHRnNPU0RhaUlFanZESzhoYXMzejQwUEUzcmhCLWljRnVlOE9KRDFwbXFCZ19yZmFxX0Uw?oc=5",
+      "source": "nguoiquansat.vn",
+      "published": "2026-11-22T09:11:01+00:00",
+      "summary": "Siêu dự án AI của Nhật Bản đội vốn thêm 5 tỷ USD, tham vọng đối đầu Mỹ - Trung gặp khó nguoiquansat.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "47d2052e08a333126dfc",
+      "title": "Thị trường điện thoại thông minh Việt Nam đi ngược xu hướng khu vực - Báo Tuyên Quang",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVERwOWd0ZElTd3kwQ2tSN25RNVdPLTlxTXlsYjJxd0hOM2tBNVVNc2dfT21GNWNhWjZ1LVNiWTVHTE1KOU1RenpOT2NTMHA2YTdJd3h3czJRdHQyYV80Z0xqb0l0d2RBbzV4MVZvclUtY2Vwa0xnanB1Rm1rcUJEbDk3UWR1MXB1dFJ6bnk4ZzRoYWxCNTRjSExSWFJ4ZkdnY2FldlV3TmxKM09QaTZoajVwcFlKOHdyOFhYd0FOdThjMThOakJ5MWdDWQ?oc=5",
+      "source": "Báo Tuyên Quang",
+      "published": "2026-11-22T09:07:59+00:00",
+      "summary": "Thị trường điện thoại thông minh Việt Nam đi ngược xu hướng khu vực Báo Tuyên Quang",
+      "topic": "ai"
+    },
+    {
+      "id": "5402aa299f7c761ec2c9",
+      "title": "Kinh tế dữ liệu trước cơ hội bứt phá từ hành lang pháp lý mới - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDltQ2JEWEVEalB6cmF1aVppR3ZZVmlnX3N6ZGhXQjI3RFlDX1FYLUpxLWFIU0Fjd3YxLUFuRVNtVm53dzVnbElYYmJwUUZOb3AzWFNvVzV2N0VGWHMyRHhKTGtlNEllcGxRQkw5RUpxd2ItMVhKQkNXV0NudDRPcWhPdnFlVFlYM3dSS2hBbjRhekdPdDVVeFhrRDJzUUE1MmpJdVY4V3Q?oc=5",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "published": "2026-11-22T08:58:01+00:00",
+      "summary": "Kinh tế dữ liệu trước cơ hội bứt phá từ hành lang pháp lý mới Tạp chí Kinh tế - Tài chính Online",
+      "topic": "ai"
+    },
+    {
+      "id": "04b46f54cd4f0095c623",
+      "title": "BHXH thành phố Bắc Ninh: Đổi mới phong cách phục vụ, tận tâm vì người dân, doanh nghiệp - Thuonghieucongluan.com.vn",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWVBbG5DWXQ5ck9FR1FtNFEzRHVoQWlVV1dacGdIdEdxd1F3ZHNGX1oyV2F0Z1d4QWpTUS1SSkRMT21vbk1yT2lzYTZVeGJ1UEpxUjdCWnBKaHJIeE8yUG55M1hlbld3c0Q4dEVxTGt3a29ZNk5nOEV1VTVtdjhQQV9xNEZrQmR2QUw0OWVLNXlNRGpCcXBGeVlEb0xuN0N2bW14QmVrN3piUUpjend0MjhrakMweWtIZmJ1bGVMWXNFSWJJYjEtMXNzMA?oc=5",
+      "source": "Thuonghieucongluan.com.vn",
+      "published": "2026-11-22T08:53:45+00:00",
+      "summary": "BHXH thành phố Bắc Ninh: Đổi mới phong cách phục vụ, tận tâm vì người dân, doanh nghiệp Thuonghieucongluan.com.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "76d7d08a18eb5d762771",
+      "title": "Positionering av Vietnams räkindustri: En övergång från ökad produktionsvolym till ökat värde och ökad konkurrenskraft. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlRvOTAwbXY5ZTBzc25fcEo2MjIwdWRnYzNzLU90WkNwZElyVUxTcWZ6aU1tcXppb1B2YURNNnIxN2pXVUZNSlE4c0llY1lJbExkdWoxRlEzd3dPdFFJWnVhYU15RUpOTjFVZ0NTUGJ6eFk2M3R0S0M0TTMxbHozblBKa19iMU9SakMxek5QQjNjWi1IV1lrWERIeUVkem5GS3lEZzJfdmZlVmVWRTVfR1ZnaGtaRk8x?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T08:53:32+00:00",
+      "summary": "Positionering av Vietnams räkindustri: En övergång från ökad produktionsvolym till ökat värde och ökad konkurrenskraft. Vietnam.vn",
+      "topic": "science"
+    },
+    {
+      "id": "db7fe7381b6711cf0a2e",
+      "title": "Hé lộ những công nghệ có tiềm năng định hình tương lai thế giới sẽ hội tụ tại Tuần lễ Khoa học Công nghệ VinFuture 2026 - Nghệ An 24h",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSmVKV2pMY1BnQXFoQnVtSFA1SkR1WDhPWERpUFBfUld6MXo5a0JMbDNoMWFLZURHLW9oZ2lpb3VEb3BSdGZvcFQzZ0xLd3MyZ1h4Sk85U3JUT25uTmVvZzVzdmozWFdkVTBHVEpfb3BNZjlIRTh5d2pVNHp2RG9wWWpXaS1PZS1adEU1MGhuRUc3UEJFZldkQlYzQmVXRThmUUE1WGRucnFPUUJkWTFyQmhzRWVCUW5rYkhOWUtiMHd2ZWhYNmM1M3VfX3ExbjVlbk1uUEpRMEYzeUZNT25oaXltV016TFIz?oc=5",
+      "source": "Nghệ An 24h",
+      "published": "2026-11-22T08:51:00+00:00",
+      "summary": "Hé lộ những công nghệ có tiềm năng định hình tương lai thế giới sẽ hội tụ tại Tuần lễ Khoa học Công nghệ VinFuture 2026 Nghệ An 24h",
+      "topic": "science"
+    },
+    {
+      "id": "3b7672d7d0f5b7165b63",
+      "title": "Người Việt tăng cường sử dụng công cụ số và AI để quản lý tài sản - VietnamFinance",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDJvU0x4MnlqenhmbDdhdmt3ZVJLZVVMb3Byd3F1WW9MdnVMVkNad05qYU14TTV6V3pXWFNPaVIwaVhCM0xEZ1p3eEExOGtsNDN6a1Z4WnJQcEIxZTFSYXJzNW82VFFrelFlU05xdFRIQWRyX1VsUkRqZEtLSWNIQVp5RDBXMkhSaDN0SzYzQVAtWm11d0tqSXFzQlBKcUFqbDZDMzlNdw?oc=5",
+      "source": "VietnamFinance",
+      "published": "2026-11-22T08:45:00+00:00",
+      "summary": "Người Việt tăng cường sử dụng công cụ số và AI để quản lý tài sản VietnamFinance",
+      "topic": "ai"
+    },
+    {
+      "id": "97486d50d69a3190b825",
+      "title": "Khi VĐV Việt Nam bước vào Đại hội Thể thao toàn quốc bằng dữ liệu và AI - Một Thế Giới",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHdycE5fTHBBdTZfUTRTNFk0eTdBT0Z5SlN0TWljeURBZ1pMcVNCQUdlODhBdGE3bTd5WmZOODRhNzl1dThiUDBlaVhEaUpiOG5RbzNXWVVFc0ZkTlY4YVpRR1QwaXBjNVVxcXVOZVFBUEFJeXVTSHhrMUI0eWhKRWJud0pwN0UySmJHUk9IT0hYWFZBSXMzN1lPY0g4RXJ0c2VBcVNR?oc=5",
+      "source": "Một Thế Giới",
+      "published": "2026-11-22T08:43:01+00:00",
+      "summary": "Khi VĐV Việt Nam bước vào Đại hội Thể thao toàn quốc bằng dữ liệu và AI Một Thế Giới",
+      "topic": "ai"
+    },
+    {
+      "id": "7005baa1c1d554659d75",
+      "title": "Mặt trái của AI: Tạo hình ảnh giả để đe dọa, tống tiền - GenK.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlRGQ010aXF3ODdOeWlTTkYyTEZmMnVlaGVPYWJVeXFIZWRHaXhydE5tNWxDQjV2OWFMZVU4SkR4eDFGeFhyWjRYWmo5RmlHYXQ2TmZQRmExb3JkNm16VlpxaHRlWHdjc3RCbS0ybThvR1ZLYWJwVTZHZVJNRW0wdW1yc09yUnBQX2xmdVZ6RnVJTEVVY0E?oc=5",
+      "source": "GenK.vn",
+      "published": "2026-11-22T08:42:00+00:00",
+      "summary": "Mặt trái của AI: Tạo hình ảnh giả để đe dọa, tống tiền GenK.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "e2975923ec4c89e96530",
+      "title": "Chuyên gia: Cảnh giác chiêu “câu phẫn nộ”, nhóm chủ yếu ở Việt Nam dùng AI bịa tin - Trí Thức VN",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkVkZ19WR1N2cDF2RlZIRHRHNDNrZDVWNlN2QU51bUxRbkxFTWNXUTNLYnFQSm9EcHlNdDZvVTltSnhNVWpoVEo5MmlxeUIwdURxSkMtTzFuVkowZGZ6YTdCdkxvbEgydDk0U1NXVnA1cE5mM3FFS1h1REg2Z29qd2twekxpZlFHMU9tZnBqVDEyekV2dlQ4a1AzdmdIT0had19YTmJCRWlfUnVaQ0JkYXZ1Y3Z1UdIBuwFBVV95cUxQS0I2QUZURFhBM1YwV0VXb3pPUkJEN1F3c1BtN2pIS3p0Y3VyVUNIRVVyaHRiQjVfOXdyRmFRa1F3Q2UtdWZUYW1FazNOQ1ZQUWxtYUlTaGh2SFo1bXpKSHJOU0s0bFJSMGhqczNUYlRQYmw5azY2M3dIN3BTeHRPTmJaZlpnY2c5QUR0VGY2d1YzZ0hpV3BMdWZkbG9vMkNzWEdoSHVrTURtWU11NFZDcmoyRm10OS1Qc0dv?oc=5",
+      "source": "Trí Thức VN",
+      "published": "2026-11-22T08:31:08+00:00",
+      "summary": "Chuyên gia: Cảnh giác chiêu “câu phẫn nộ”, nhóm chủ yếu ở Việt Nam dùng AI bịa tin Trí Thức VN",
+      "topic": "ai"
+    },
+    {
+      "id": "12a930243c2360f7e531",
+      "title": "Gian lận AI bủa vây kỳ thi đại học, Bộ trưởng Giáo dục Hàn Quốc từ chức - Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYTNtRHFaMndfUlo4bDNzQ1dYamN6UXhvQlNWcDZFQ3FpeHZMcEhYT1k1aGI1T1pPQ0Q1UVFHcjlVUDJwNGxhRndYS1RRa2VoMG5SNlBXN1VXREthczJtcDVJbTRHcF9HcExTRUVtQ3JpS3RQUm9LSTFhZ2NiSjVvT3Vn?oc=5",
+      "source": "Báo VietNamNet",
+      "published": "2026-11-22T08:27:00+00:00",
+      "summary": "Gian lận AI bủa vây kỳ thi đại học, Bộ trưởng Giáo dục Hàn Quốc từ chức Báo VietNamNet",
+      "topic": "ai"
+    },
+    {
+      "id": "61d7adf9596908fb6674",
+      "title": "Phát huy sức mạnh văn hóa trong kỷ nguyên mới - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92cjU3X1JRX0wydF9mdVlBV3pjcW52dmV4SUJ4NFFPWkYySnlmOEl3S005M2RrZXlsTEx2YWp4eTlNRHM5M29RTUlhYVhKeVFPRVU4VmUtTTVyLXliN25JbUpVQ0pRczFNNE5PdlpPWDFwdEN6ajRJ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T08:21:33+00:00",
+      "summary": "Phát huy sức mạnh văn hóa trong kỷ nguyên mới Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "ec35777a73be9076eef5",
+      "title": "Thông báo: Tuyển chọn chủ nhiệm nhiệm vụ khoa học công nghệ năm 2027 của Thanh tra Chính phủ - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDBtUTJ6Ymp4bUdtTGNVR29pMVZsdE9nM244Nm1tTEFrenJmM3Z3b3NsNFBMWDVlTFBIWjVxMGFxRll0cjVGbVBtY0Fvc2YzN2hpN1hLZ3F4WEM0X3U1a3MyYVQ5S0Y3N3dxazJKbVVxQWJyN2RfRkl1cFFIelV2YXdJWmY2elNZMllia2pkUDVYc1NIMHZhZjBiOUVyeFRQWnh0MXpSZ05iZjQydlMzU3J6ZHY?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T08:20:25+00:00",
+      "summary": "Thông báo: Tuyển chọn chủ nhiệm nhiệm vụ khoa học công nghệ năm 2027 của Thanh tra Chính phủ Vietnam.vn",
+      "topic": "science"
+    },
+    {
+      "id": "3abc171e0f51abc907de",
+      "title": "Định vị ngành tôm Việt Nam - Giải pháp khoa học công nghệ, liên kết chuỗi và phát triển thị trường bền vững - Báo Dân Việt",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVR1VTdRbVB4WFNqMnV1aXl1Sm9KaEtadTFYTlRYR2g4OGx3NG43ZE9FNHNYNEtBN2F1V2JzYVBGdURLaVhTaXRSNEtpV2hVakJiZ05BWXF4UEhsNi1CUW1jdExkbWNyOE96bEl0UTV1WlBBS1JkSk5iNVI4bmhuMFl3Y2g4U3dPbEVNQWpNaGcyaDB3Rk5mRWhnNW9pcFlHdTBrWDlYYXdTd2RlVmU5V3FlbVk3S0Iwa1B6U1F5VTNmaHBSWFVRRkE3OG9sWnZ4alJKag?oc=5",
+      "source": "Báo Dân Việt",
+      "published": "2026-11-22T08:17:41+00:00",
+      "summary": "Định vị ngành tôm Việt Nam - Giải pháp khoa học công nghệ, liên kết chuỗi và phát triển thị trường bền vững Báo Dân Việt",
+      "topic": "science"
+    },
+    {
+      "id": "a9fce1ffa1f40d899f09",
+      "title": "Nhầm lẫn PLAVE là nhóm nhạc AI, UNICEF Hàn Quốc phải xin lỗi gấp - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2JiSWJ2ZDRsZU5FOVNieGRNMFNFYWFoS3dkQlMwV202UHJla0VlV280NjdkcGZpbUlsNjhKeEZYc1NFU1huX3ZOUzNXc3B2REdnWTZlWTNvdHF5N052bldERm03aDRQcmNyeVVpem9zTVl6MEt3Q2tUeV9XVVg5QklSMk1wbTY1aVZEY1lyTQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T07:54:11+00:00",
+      "summary": "Nhầm lẫn PLAVE là nhóm nhạc AI, UNICEF Hàn Quốc phải xin lỗi gấp Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "86a90af5cc4f347f2018",
+      "title": "Doanh nghiệp Việt củng cố nội lực, kết nối cộng đồng tạo đà tăng trưởng năm 2027 - Mekong ASEAN",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWpFbDA4WUZwdV9teDl4dDRYQXNiUWdCZExteTk5Z0lmenVETElSTTR4dERPLVpMemtiNHJKY0V4VXVvV0xEX0dRZl9hcEFEMnI5anR1U3N3RTNCclZFem4wOEZVUWxhdXpLN1BrWm5MaW5ZRnpOaDFpQnFYODdaXzVMdlVtc0Vpb2pNbmw4alpCeEVYQ1VFbFQxWFh3RjJ2RTRHTHVxaUUwMVl5eDg3RlpWQQ?oc=5",
+      "source": "Mekong ASEAN",
+      "published": "2026-11-22T07:47:42+00:00",
+      "summary": "Doanh nghiệp Việt củng cố nội lực, kết nối cộng đồng tạo đà tăng trưởng năm 2027 Mekong ASEAN",
+      "topic": "ai"
+    },
+    {
+      "id": "c1d83cf5ec4d08b29436",
+      "title": "NAFOSTED phê duyệt danh sách 30 nhà khoa học trẻ Việt Nam tham dự Đại hội các nhà khoa học trẻ lần thứ VI tại Liên bang Nga - https://mst.gov.vn/",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNHhJYkd4ZGdaRXpJMGJhX010b1VNYk9fNnNZQVB4WGwyOEI0VHZROFZvX2h4YW52aDl4ZXUxNlZjaERjWUs1bFV6Y2hfcXhkYjNHdWo2NDZlUndCYTNhRFVXN1R0c09ubHhNVXM2REJHTEJUWVhfeXc5dzZONHNIQWptWmFpYkhDVTZScHdCakd5YU9qdVF3cFVWaUVwVjJ2T0swM2dBTWpTTGx1UkRObGRQaDZ2bkJmQXhRdlNoZXBYb1hiWWM0SnJ4aGtpTmd6RjR1T0d5d3VsRGNJUm5pNEFJTlRvaWlZcW42ZmpYanFzQnJONUtRdQ?oc=5",
+      "source": "https://mst.gov.vn/",
+      "published": "2026-11-22T07:47:00+00:00",
+      "summary": "NAFOSTED phê duyệt danh sách 30 nhà khoa học trẻ Việt Nam tham dự Đại hội các nhà khoa học trẻ lần thứ VI tại Liên bang Nga https://mst.gov.vn/",
+      "topic": "science"
+    },
+    {
+      "id": "ae92f473d1e6eaf026ef",
+      "title": "Báo tường mừng ngày Nhà giáo Việt Nam: Cực chất chẳng cần AI, đậm nét Việt xưa - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSnBfX0Z0ZG1JTVJEWmRReXg5c2pwZjBOc0psTU1iajRfR1VWUU9pNF9vSm1HeXA5ZXB3ZnptRWhOeFdoMkpkYXRzRDFQem9MWTZSM1Ywb3dhVWE1U0tZUFVtOEoxcXc5Y1gxWVdRS0NJenN2QXhBbzlDakJKaGdkQkRWZWJGdk9aaENmVjZIWU55UXNDbFlrc2pjcEVldkZF?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T07:40:57+00:00",
+      "summary": "Báo tường mừng ngày Nhà giáo Việt Nam: Cực chất chẳng cần AI, đậm nét Việt xưa Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "9bae3774411e908db1cd",
+      "title": "Chi bộ Công đoàn Khoa học và Công nghệ Việt Nam đánh giá nhận thức đảng viên - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnVwenB2MVNGQUpyN2RlWmJVd1dVUXMwT1BLNF82ZmpjVm9OWXplMlM2Y0NLcWp4SEZqTmlXN2pYUjFQMW5NZEthZEQ1VDNwQzl1bGxZNnpMd2JCaEZNVGd4QXFUZFJ4YlFOcUVfQzE2V1ZQU2lGWnJidTREUmVBS3QxNExEV0FpR2pZdkFGV2xEb2F3MkJUVHdhdVNwZFd0NU0zUTFEWWIwSnN0VGQxeTJqcjlMWVYw?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-11-22T07:15:32+00:00",
+      "summary": "Chi bộ Công đoàn Khoa học và Công nghệ Việt Nam đánh giá nhận thức đảng viên Laodong.vn",
+      "topic": "science"
+    },
+    {
+      "id": "b0c032b7649f0289508f",
+      "title": "Acara istimewa ini telah membantu lebih 2,000 kanak-kanak di wilayah Khanh Hoa mengakses AI dan STEM. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1cxWTFTVzl0b0JBZlB5N0Z4WXJRU1c5MmQ4aW0zNjJtV01zcUplUHBzWmRyZ3lMZ0Fwc2d5bE5YaGt1UGRyTEJPajgwOXBIUjhyNEpwRS1DckNEQ196VVpuMDRHVHRYQWlDcklPZzRVSTgwVVhsQ3ZjZERlaFpxSW15Nko2RXdXR0Q3UTV1Tm5KeXIxS25jWlBhSQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T07:11:40+00:00",
+      "summary": "Acara istimewa ini telah membantu lebih 2,000 kanak-kanak di wilayah Khanh Hoa mengakses AI dan STEM. Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "e72c321613338f4ecbf2",
+      "title": "Lãnh đạo Mỹ, Trung nhất trí hạn chế dùng AI tự chủ trong hành động quân sự trọng yếu - Bloomberg Businessweek Vietnam",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2hLOGhqTS1sUHgtcFRFbktmb2phSTZnOTVPbU84ZVVzNG85WTh0OS1ESGEwQkpvU05BXzdjUkZsTDhhOTBoNlJiU2VVMy12WGUtd0xuVEw4S19PZk9yOU9FY3FPMTlUOFEwa3U5ZWg1bUhCNHFoLTc4ZUFaTGIzb0xOdDFjLVVnME82Q1I2aEI5VU9XOHlqUWhfUWh3MENoTGZJSXVYOHk1T19qV2c?oc=5",
+      "source": "Bloomberg Businessweek Vietnam",
+      "published": "2026-11-22T07:00:00+00:00",
+      "summary": "Lãnh đạo Mỹ, Trung nhất trí hạn chế dùng AI tự chủ trong hành động quân sự trọng yếu Bloomberg Businessweek Vietnam",
+      "topic": "ai"
+    },
+    {
+      "id": "3f78d589c6f9e568009e",
+      "title": "APEC 2027: Cơ hội để Việt Nam khẳng định vai trò kết nối và kiến tạo đồng thuận - Bnews.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0E3VW1xSlppVzVaai1PYkxtdDMyd1hOcTdBTnd3aWZOVHRqNzcyTGppZ09KZzNKbU9mdHNUX0JuWkhoc3lVWHN6WVZZZzhMaFpJQVR2MzlJcVZ1cXlwX1UtX1RYcG93R3NfODZOWFpHRmJUV1NQMzdpWVpHYTZvQnVoUGk0YXBEXy05NC1UOVRTbXJzQVczOUpZS1NKYkV5cUZBSDU2WXdiVzA?oc=5",
+      "source": "Bnews.vn",
+      "published": "2026-11-22T07:00:00+00:00",
+      "summary": "APEC 2027: Cơ hội để Việt Nam khẳng định vai trò kết nối và kiến tạo đồng thuận Bnews.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "d330ceccb98cdf15a365",
+      "title": "Shaping technological capabilities in the digital age. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xX0tJaWhvTm81d1BNUGEwek5heExfeXpWSF9sQ2RHb3UyOTZvRXU4ME5TNGJRZW5JeWlUUF9iQXJRa3F4R2taTnV5V21FUWItQmdVWS1ucVpKVElNbXlaaGh6NllIQk5KdzlyRVNaZTNHcWdEVzgtWFdUUEVuUQ?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T06:59:18+00:00",
+      "summary": "Shaping technological capabilities in the digital age. Vietnam.vn",
+      "topic": "science"
+    },
+    {
+      "id": "af85082eacb608778e2d",
+      "title": "Báo tường mừng ngày Nhà giáo Việt Nam: Cực chất chẳng cần AI, đậm nét Việt xưa - Hoa học trò",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1F4VjR5Yjh5UmxKTmZGYVl5Z3ZVcjlOVjFRU3pvdGhVa3dWQkpLNmljN0dqenR6cEJoaUFvckpSQ2h2TkVpc2gxcEY4RmxZWGV2b0FPdzRDTHpHd0FVblZLaG1raXhfRWEtR2pjZXNuSXBTM1cyQTdPQ1BpdUlua2JnNFd6bHRsVGNtT0hrVFJuVVlZc0VmVU1PdnljcFU2UnhQamZSUWFxUzhKY2xUaU84bnlhNUFKZVJzNTJ1cHc?oc=5",
+      "source": "Hoa học trò",
+      "published": "2026-11-22T06:30:09+00:00",
+      "summary": "Báo tường mừng ngày Nhà giáo Việt Nam: Cực chất chẳng cần AI, đậm nét Việt xưa Hoa học trò",
+      "topic": "ai"
+    },
+    {
+      "id": "43d83219125014054981",
+      "title": "TikToker dùng AI \"hồi sinh\" ông nội đã qua đời, gây tranh cãi - Tin tức 24h",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0oyN2k0SldWZmZVdnZDZ0ZrX1hJeTBDVDdpSU1FZXRBYnRJaGhTRkpfUDdPbEdONUxuVEhuMlpRNGwwa3BfSXhtUTNTM2RabGhkbndPZzZkNmxRbmd2UFFXTjEyZWJFWlk5MFlSOVVybDVEbU5DQllnSlozOGtiNDk1WXNkRHdsWHpJYkMwOGVBa2loVm5nTnpjcFVJUDZSakdiNTREclBKbEItRXNXZTRUbmdNZk1ENFE?oc=5",
+      "source": "Tin tức 24h",
+      "published": "2026-11-22T06:30:00+00:00",
+      "summary": "TikToker dùng AI \"hồi sinh\" ông nội đã qua đời, gây tranh cãi Tin tức 24h",
+      "topic": "ai"
+    },
+    {
+      "id": "6c5e4581e506e9cbb77a",
+      "title": "Phát triển nguồn nhân lực trí tuệ nhân tạo và bán dẫn: Nền tảng cho các ngành công nghệ chiến lược - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY25LeDRKeHNqM0oyaWtwQVRnTjNLVmhtbndpZXhWY1R1dzljQmtPQVVoOC1zTmY2NUVYOC16bmplZnVFZDR5b05JdzBWclJ1WjZEN2FMV0hmQmRHNjkxYlNTN2dDOG9GcmlES0RaZy1qSnZFV0ZuV3U3aFpobFFLWnpBTnlMUVZNOHRjbkVGdEF0cFBydnczOVNyNXNDTmEzVzVmTC1VOFQxREVUTHJtRWVCTG1rR0hhQ09IeA?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T06:15:43+00:00",
+      "summary": "Phát triển nguồn nhân lực trí tuệ nhân tạo và bán dẫn: Nền tảng cho các ngành công nghệ chiến lược Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "09b9bd04d127b5a5a5b3",
+      "title": "TP. Cần Thơ: Trình diễn công nghệ tiên tiến, thúc đẩy sản xuất lúa chất lượng cao, phát thải thấp - Báo Đại biểu Nhân dân",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGwzYlE0c1QyZzJFM2hBeUd1MVV2NnlYMHBnamhlYmVUUnNpWXFLVUpiWVRnd2xySFp6Qjk1UUFwYjFTSnp4b0tzbF95NzFxWElsSHd1dHlJb1hDNHRrZ3ZkUzZPWC1MMXdXQjlkQ1dCX2J5Qm80S1NWY2FkY3RVaWwxbTg0OEwwS0tjMkxWbm0xNEdidTBHdkk3ejBISnkyZnVkQ3dHYVJ4RHU4U2l4YXBFMl9OUVZ6S2U0aU02eGhuWWNKZ3NBUUIwOEQ3Zw?oc=5",
+      "source": "Báo Đại biểu Nhân dân",
+      "published": "2026-11-22T06:03:01+00:00",
+      "summary": "TP. Cần Thơ: Trình diễn công nghệ tiên tiến, thúc đẩy sản xuất lúa chất lượng cao, phát thải thấp Báo Đại biểu Nhân dân",
+      "topic": "science"
+    },
+    {
+      "id": "addf8cf4359deb14815d",
+      "title": "Hàn Quốc đầu tư hàng tỷ USD vào trung tâm dữ liệu AI - VTV.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd2F6VDNjS0cyNDRPSGIwRzFGUE5MVXV6ZnFPT1k4LWhNUjB0dEV3djliOTRrY1dXU3lxU1JtYU5vTjlvcXFhcG1TQ3JtaVEtTUVpVFRBSTlON3NyMFo1MWphSnhoOTFncHhPT2FvMS1sSWZkd3dZTDVsYUhJMEpzOUhuTmpiTTl1NmNqUDVVQTF0a1Zp?oc=5",
+      "source": "VTV.vn",
+      "published": "2026-11-22T06:01:00+00:00",
+      "summary": "Hàn Quốc đầu tư hàng tỷ USD vào trung tâm dữ liệu AI VTV.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "33db2457899c24f92db1",
+      "title": "AI và sáng tạo nghệ thuật: Trợ thủ đắc lực hay kẻ soán ngôi? - Báo Thanh Hóa",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUM5UWFXcjhaNllnS3piYXc0OW1kRDFTcEJTQWsyWk05T3dVbXlPLS1meXRRRkZ0VXoxd1VhejZGUEVpdGY0SGc1NEhhR3R6WDFURkFXUlg5aHRnQktTallpNVRRNFJGLTV1MzkwUHRPeElaTFFfaXVWZ2pzSVBId2lhWU1ka19GeURTaXdUTzdlQ3BSbUxETktQRzE?oc=5",
+      "source": "Báo Thanh Hóa",
+      "published": "2026-11-22T05:56:33+00:00",
+      "summary": "AI và sáng tạo nghệ thuật: Trợ thủ đắc lực hay kẻ soán ngôi? Báo Thanh Hóa",
+      "topic": "ai"
+    },
+    {
+      "id": "226dedcd5809f307b35f",
+      "title": "Đà Nẵng tổ chức Festival 'Khởi nghiệp đổi mới sáng tạo' - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHdmTUt0ZkdHNEgzeXRqVFNaZFQxbzRycHd4NW1aSzdRbS1FeFphTERheVhwWVc4ZlZlcTJFamRCNlM5STZ5b1phWmdPODZrNTFfZVZTanI4SVBXa2I4MmRRck1xSE1WZnRaZjdDOV9JcUlvUjVUMUxpdnV3RXNVSWxR?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T05:49:20+00:00",
+      "summary": "Đà Nẵng tổ chức Festival 'Khởi nghiệp đổi mới sáng tạo' Vietnam.vn",
+      "topic": "science"
+    },
+    {
+      "id": "42adf7d004c6a8cce80d",
+      "title": "Nội địa hóa công nghệ, nâng sức cạnh tranh ngành xây dựng - Báo và Phát thanh Truyền hình Hà Nội",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1k3M2lPVGxkZ2RNVVdCTmgySzFJTDlBSDZsWWdwTDRBU19YMkl2Z3pFUmlZQzF6dlVSeFFzU25qRDBiZlVFblFLSWVIb2FZdGZQTXMwSzRFV29sUHdTQTVTY1V5QmZHeUh6dS1vTV9qeWV1N3I3TDVscHhEX1lLMUtiVGpNMDdxbF9tdkJxRExncVJvdUdqQk16S0NrUGE2cEE4?oc=5",
+      "source": "Báo và Phát thanh Truyền hình Hà Nội",
+      "published": "2026-11-22T05:31:00+00:00",
+      "summary": "Nội địa hóa công nghệ, nâng sức cạnh tranh ngành xây dựng Báo và Phát thanh Truyền hình Hà Nội",
+      "topic": "science"
+    },
+    {
+      "id": "d5116ab412c8b982b804",
+      "title": "Bộ Nội vụ kết nối, đồng bộ 12/12 cơ sở dữ liệu sau chiến dịch 100 ngày xử lý các điểm nghẽn về chuyển đổi số - chinhsachcuocsong.vnanet.vn",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMnNVZmhURkpDSDZ3bkdXcU05SnBFWVVCLURCV092Qjl0ZDRnMWJ2MG54aHBWdFlrYWxTMzBzZWVMRUdXamp1ZVhMVlBTbElHVFdUa19jVkN0bGJLeFlSR2hhYVZ3UzFRXzhZamtRVUF6WjFfSkJMNS1Pc3Y1NzhyM2lCS0RhOVFKQUpPb0xRQzRjQWh4dXBPd2t1RTg0MkpWbTBXWHM3VzlrS0g2N1FtdUcwYlhFVC04MERma1huZzlZM0ZlR3BMVlFYNURrVUdfT0dqRVVzZ2VEMEpOZlp0VHJNZXFYY0ExaU53?oc=5",
+      "source": "chinhsachcuocsong.vnanet.vn",
+      "published": "2026-11-22T05:21:00+00:00",
+      "summary": "Bộ Nội vụ kết nối, đồng bộ 12/12 cơ sở dữ liệu sau chiến dịch 100 ngày xử lý các điểm nghẽn về chuyển đổi số chinhsachcuocsong.vnanet.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "298d436753996eefdc1d",
+      "title": "Phát động Ngày Cộng đồng lần thứ nhất: Mỗi người một hành động - Lan tỏa giá trị nhân ái - chinhsachcuocsong.vnanet.vn",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWUVnX1NYTy0zMjBVd1Z4Uk9WYUxkRmhJR05XbWtqUkRiRE9ISHN2eTFGUVFmbmtXS1B1VzY3QjZzMDZKWlRWWjZuc01wV0l4R0VUUVc0ZkFVVmdsQkFBZDB3dVdHTTJLS3pLR0wtOFZXTUNUMTcxcEZnSnZoSDNIU1pWbUxPanlIcFhma0s5V09SQ1JqSjYxUnlHQmRUVFdnSXZlLWg5UnFHR01KNm5CZ2FOZUJoS3ZSXzlCZVJpRXhJOGFZZW1hdTUzcGZqUQ?oc=5",
+      "source": "chinhsachcuocsong.vnanet.vn",
+      "published": "2026-11-22T05:20:00+00:00",
+      "summary": "Phát động Ngày Cộng đồng lần thứ nhất: Mỗi người một hành động - Lan tỏa giá trị nhân ái chinhsachcuocsong.vnanet.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "153e62bcf0113cfedd9c",
+      "title": "Định hình năng lực công nghệ trong kỷ nguyên số - Báo Tin tức và Dân tộc - TTXVN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFdCZHJqM0Zsc3AyRkZQeUNkMXdiUGh6S192N2NrNE9zaXZPc3g0dEdYN1hBVUd1N1c1YWE1ZVdhbVNrTVQzUFdlQm5va1ZSMXIwLXlVRnJ1Y0RDNWhVUk9Gck9QVEVXU0liLVBTaGZmOV9HNGd0SFUyRDlwVFhTUHppamNDVEIzZE05bGpR?oc=5",
+      "source": "Báo Tin tức và Dân tộc - TTXVN",
+      "published": "2026-11-22T05:09:08+00:00",
+      "summary": "Định hình năng lực công nghệ trong kỷ nguyên số Báo Tin tức và Dân tộc - TTXVN",
+      "topic": "science"
+    },
+    {
+      "id": "1c77673bdd5ecde81dfa",
+      "title": "Đà Nẵng: Festival \"Khởi nghiệp đổi mới sáng tạo\" năm 2026 khơi nguồn sáng tạo cho thanh niên - Báo Nhân Dân điện tử",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlpVMnh2b013aDU3Q3pGS2o5RE9Pem1idHJGQkRmcE01LVI2NW5rZEEzWGt5c2pQSEtrZzd3Q0FWd0RQQjkycjZYYjU5cDY5UlZrMEJlNHNLVXVwVkpGVTloVm1tSUJTV21DNy1vNWtXM3U0SW1fUGhzdEQwd3pLZVg1dnhwdlJTcnM4aFFONEFSTjRrODdla00zNG1oenBHRHBOSWFjNGUxTWcwenJBMlVuMXJXZ0dDT2J5WmZQUkhIbE0?oc=5",
+      "source": "Báo Nhân Dân điện tử",
+      "published": "2026-11-22T04:42:55+00:00",
+      "summary": "Đà Nẵng: Festival \"Khởi nghiệp đổi mới sáng tạo\" năm 2026 khơi nguồn sáng tạo cho thanh niên Báo Nhân Dân điện tử",
+      "topic": "science"
+    },
+    {
+      "id": "a6be94e05ccf2796a6c9",
+      "title": "Hợp tác với GenAI và hành vi kiến tạo nhiệm vụ của người lao động Việt Nam: Vai trò trung gian của kiến tạo nhận thức và sự phụ thuộc vào GenAI - Chuyên trang Nghiên cứu Kinh tế-Tài chính",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUHR6Qk0wemtUQ1NJX0hMOGhtbzU0a1R4SFkwTTU5bWFITlhVVk0yb3U5MTlqTXlIcU9TcFd2Q20yS1QxZldDVW9TamtDdW43WENROUNtTnZwYkJmTVAtZkNSbWZxV0dnWXl5Yk9RYTBiRDQ3eUFaZzJKUk42MW1CWE9UaTFCWlo2SFNHaG5BTEdkY1FkVDA4RmM5R0FTenUwOF9yekxDanFYTl9id2tLV05yc1REUE9haGVubDZZM1ZjS0xFOXNfOTkyaENtVkNIV0NIblVTLU9EVXR3ZW8zSkhoVkFJaXZsblh2TkhTX3ZfWXpDYzJ0MlR5cEtpSk5sR0RtSEYwZHNnMjJzbmdkOWhpeFAyNmwwNjdNVjJOVGZhZw?oc=5",
+      "source": "Chuyên trang Nghiên cứu Kinh tế-Tài chính",
+      "published": "2026-11-22T04:25:26+00:00",
+      "summary": "Hợp tác với GenAI và hành vi kiến tạo nhiệm vụ của người lao động Việt Nam: Vai trò trung gian của kiến tạo nhận thức và sự phụ thuộc vào GenAI Chuyên trang Nghiên cứu Kinh tế-Tài chính",
+      "topic": "ai"
+    },
+    {
+      "id": "8cf05c4f74641c7070ec",
+      "title": "Ngành tôm Việt Nam tìm lời giải cho bài toán giảm chi phí sản xuất - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmphNDdUTmFvVWNldXUzcF9EZ1ozWDVhWWtBZ3VHMm9PcEY2R0c0NkNGVmJybkcyblk0MkZMcDB0LV9DSWVPOHZpRUZNazFwUW9wWFVhb1NZN0oxVVNGSTBlUlpsVmkwa1lTSlFHU0FZaVMtUFRRU1VZM2c4SjRmX2Mxb1Fyb3hWZkRSYzduX2NJTXpBQm15aTItUmZqTWRKTGJyTWQ1Qk5SeENo?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-11-22T04:22:20+00:00",
+      "summary": "Ngành tôm Việt Nam tìm lời giải cho bài toán giảm chi phí sản xuất Laodong.vn",
+      "topic": "science"
+    },
+    {
+      "id": "c911e916ff35d5a1b0df",
+      "title": "Bộ trưởng Bộ Giáo dục Hàn Quốc đệ đơn từ chức sau lùm xùm kỳ thi đại học - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2xHUFp5MmdUd0hoSXVzbTRGWUhfX2ctYklWaDFKQ1lPSjZFRFc3enlZZUJTZVRYYXVmUEZpcFhzcHBxc3Fjd0JhckFwODE1OUtTX19BOTNHZzRDc2FHdEdGRlZ1Q2R0U3FQZUJyWnpYUjU4TVBfSnVCUzU0dFB1NEJJSnBmLWZhcTJLUG5IS21RQkhrUlBjcWsybW9Ga0Rjb1plSExoRGZnRnRuVlRiN3dn?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-11-22T04:21:13+00:00",
+      "summary": "Bộ trưởng Bộ Giáo dục Hàn Quốc đệ đơn từ chức sau lùm xùm kỳ thi đại học Laodong.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "62e01ae7efdd8eda6529",
+      "title": "UAV BOMBARD tầm bay 1.100 km của Mỹ, MICH 2000 Ukraine tự làm động cơ và robot hình người Đức - Báo Lâm Đồng",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVlRWEtZUllYVWlJVjBfSmE3aWVndkx2YnNnaHhqS29IZC1HbXlzaGhkWTZPb3RiUkZsMUZ1S0tDV0MydF9FTTVUck5ldnEzUEVwYVBBS3FjYkdPaUpLMi1sUFFvN05sa0dhbTVhZG9PQnRmV1VtR0hLXzJ1aEVmc2xqbGdQRFJZSld6aGpzRldERjF4cDZFNWxsRENOVXZDRnFEWTBlSjNoMHhTeV9JTlI3elp2VFhFYjdGWUhNSVk0OUk?oc=5",
+      "source": "Báo Lâm Đồng",
+      "published": "2026-11-22T04:06:48+00:00",
+      "summary": "UAV BOMBARD tầm bay 1.100 km của Mỹ, MICH 2000 Ukraine tự làm động cơ và robot hình người Đức Báo Lâm Đồng",
+      "topic": "robot"
+    },
+    {
+      "id": "c893165f91daf125ddc8",
+      "title": "Việt Nam cần gì để trở thành trung tâm dữ liệu của Đông Nam Á? - VOV.VN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORk8yY2M3TTVEeHhNR0JPaVc0eUpyV01HdzhweW12R0RfQWJ5R3hhY0dYdU1IWVJpU0gyWF8zZ1NKdlU2SzhuMkpxd004cUxsc05wY1FMTDRjeGxGbGNFUDhOQW9jc1FvZjhQT1J5Y1ZWS2FxZkVtVXVNMmxmU1RGQ0tTclhPODlGTnFLd0xEWVJoQXNVMnlZVlREMWZmN20yZGc?oc=5",
+      "source": "VOV.VN",
+      "published": "2026-11-22T04:00:00+00:00",
+      "summary": "Việt Nam cần gì để trở thành trung tâm dữ liệu của Đông Nam Á? VOV.VN",
+      "topic": "ai"
+    },
+    {
+      "id": "87a74c3c4b126f1f8943",
+      "title": "Các ông lớn công nghệ bơm hàng nghìn tỷ USD, quả bóng AI bị thổi căng - VietnamFinance",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTy05bEs3WHRKa1NqX1BwMWlUSEZMckZ5SVhzWHNhUGZxZjA2QkotSG5oN1BseWhNRE80ZTNVS0RHZ0R1NzNvQXpoYTFGVTRCNmd2OTRvMmtZVTBGcFAtTU5IOEJrZWNUZVhZbVBJOFplSGZaV2k0Wm5hN0YtVzdtbVdWQ2c0RnpvQTZGeVhvRkMxSHh2dkRsVkIxa2hZUkJqZW04NmpEWEdIVlE?oc=5",
+      "source": "VietnamFinance",
+      "published": "2026-11-22T04:00:00+00:00",
+      "summary": "Các ông lớn công nghệ bơm hàng nghìn tỷ USD, quả bóng AI bị thổi căng VietnamFinance",
+      "topic": "ai"
+    },
+    {
+      "id": "99db0ff084232d23a13a",
+      "title": "Bài toán nổi tiếng nhất thế giới được giải nhờ Claude AI, giải thưởng 1 triệu USD sắp có chủ? - nguoiquansat.vn",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPek5nUGJPdU1EMzF3YnlrSWNDN3dxSXBnVUUxd19RMEI1cTlrNWNHZXdYNGh1OG1sVlQybzhzcUJTaURMaHZSbWJsTHpSTzlhbXZXVHh0ZWtnQ1dFdG42NENDNnJSVHY5ZzZ3N3dKQVNzQXh1NXVub1Z4eks1MjFVRFpBa0ZGVVFicHliUlRHaWwyWWxUZFkwcHBQX1VyRGotYWtFSFdBMFFWdmtLLV9PSWJVcHFiWWVNZHVzMHlGdXlRU1A3blE?oc=5",
+      "source": "nguoiquansat.vn",
+      "published": "2026-11-22T03:32:01+00:00",
+      "summary": "Bài toán nổi tiếng nhất thế giới được giải nhờ Claude AI, giải thưởng 1 triệu USD sắp có chủ? nguoiquansat.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "eeb3e197d33dee26cee6",
+      "title": "Trang bị kỹ năng phòng ngừa, xử lý sự cố an ninh mạng cho cán bộ, công chức Văn phòng UBND Thành phố - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkRQM3lud09QRGlDYlpyeEtvdEg3emRsek5XX1BFWnViWHNiemhiS0laSnRoZmdRY0NkUkVMdlBNaFdrQm0xRy00dDlrYlRTaWdmNkRhLTd1Nkd0Y1ByZ1Q3MnNMazF4Z25jY2NYYjhnZmxWeHRsaHlSUnpleHFUUFFjNktFbE9QSHJUTHp4SDAzVmdCZkRpaHRjRTNOSzRVSTJIcmt0dDRNVmRUN2RaQm9jV1RIUXFyMVhGMV9B?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-22T03:27:22+00:00",
+      "summary": "Trang bị kỹ năng phòng ngừa, xử lý sự cố an ninh mạng cho cán bộ, công chức Văn phòng UBND Thành phố Vietnam.vn",
+      "topic": "security"
+    },
+    {
+      "id": "1071654c74875456b266",
+      "title": "Công ty cổ phần Lọc hóa dầu Bình Sơn - BSR",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSVZEZ3F0LVdKVzNBSDRObVpISndDYVd2THNpTHNmQjVVZW5nTHdjekxTdExMLWlqaHFoSkZaUWdNeTFPQkl5d2p5MFREYW51MFJ2V0JDQklfU3V4REVqQlA1QWFaU1N4RFFhaTJ5YVV3LVhrY01WRlpPZWp1SU5uVlRxaW5FSDNxVVJtcnl3bUQtT2gzdU5pQ2tNMkZKUUVYMWlTZk5KQWp6ZWFpVkZSNnlEeHBsWWVrRGc?oc=5",
+      "source": "BSR",
+      "published": "2026-11-22T03:14:34+00:00",
+      "summary": "Công ty cổ phần Lọc hóa dầu Bình Sơn BSR",
+      "topic": "science"
+    },
+    {
+      "id": "4ad4e293131af1988dcb",
+      "title": "Khi trí tuệ nhân tạo làm thay đổi nguy cơ tấn công mạng - Báo Điện Biên Phủ",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWtvUTIwT2hNN1BSRVBMTTVOOFppMXJYUEVWa000OEMxR3FBLXdaNENId293LTJ5SkMxUy13QUpzYTVLSTkxUGhNeHh5SU9FUWN0YUZUSGhtYmtGYVM1c0dmVUNDWi0zYmQxaDhlcGUtRWtxOU40OXN1bGJnbS1IbG9ydVVHUHBia2NyV3lEdGlGMFl6WGVtZEVIVFk0Tjk5?oc=5",
+      "source": "Báo Điện Biên Phủ",
+      "published": "2026-11-22T03:12:00+00:00",
+      "summary": "Khi trí tuệ nhân tạo làm thay đổi nguy cơ tấn công mạng Báo Điện Biên Phủ",
+      "topic": "security"
+    },
+    {
+      "id": "73670e4779ad1bc802b6",
+      "title": "10 năm trước xếp cuối bảng, hiện internet Việt Nam có tốc độ nhanh thứ 8 thế giới, Hà Nội vượt hàng loạt thành phố lớn - nguoiquansat.vn",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcnlkdGVhNlhYUjFHZXZQR2JmVXBSdE9wZmYtdDE3YUVMOWJZMGstdndvVGpuQ0tjbHdlZ1E5Zk9zT29RcmN0NWJVeHlFdWZWUTVqOG1DZHlKLUx2NGgtWlBMaXh4OVRUS1J6dV8zTDFZSndPbzJneW1RSU9aTC1KUDJqUm1YNzZtRENfWUc5OWtXaFdEYS1EaVlTcTZFYkxUbGsyTHhoRzB4Wk9BUVhXM1ZWbHF0TmxfZlhxNlJVUUtISU1IWktnZjJVckY4M19iblpiRmVzQ1hVSmttRjNGXzdrX0tJak0?oc=5",
+      "source": "nguoiquansat.vn",
+      "published": "2026-11-22T03:09:01+00:00",
+      "summary": "10 năm trước xếp cuối bảng, hiện internet Việt Nam có tốc độ nhanh thứ 8 thế giới, Hà Nội vượt hàng loạt thành phố lớn nguoiquansat.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "d5c12157e78d5a444a79",
+      "title": "OpenRouter loại bỏ ba nhà cung cấp sau khi phát hiện lộ lời nhắc AI - Unite.AI",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWJ6NVVpSUZ6UGNFM0UzTkIxM1liY1ZxUDdNYWNaNXRqZ0ZvZ0VnNHJoX0x1RU5GRkZjcEVkUnAyNzVWR2RnQk5uSUkzRGJhMU90eDllNzR2SmZuVTdvZHBpQlVxRDNWYmtLZ0VlWWFrLWoyV1hPZjI0ZWw1R2NvUTVONFZwb1dlSHFOLVZpUVJDRURx?oc=5",
+      "source": "Unite.AI",
+      "published": "2026-11-22T03:06:02+00:00",
+      "summary": "OpenRouter loại bỏ ba nhà cung cấp sau khi phát hiện lộ lời nhắc AI Unite.AI",
+      "topic": "security"
+    },
+    {
+      "id": "e3b1fb65ced7223fb41a",
+      "title": "Muốn tăng trưởng 2 con số, Việt Nam phải tạo dựng lợi thế cạnh tranh khác biệt - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUpKSUFYTlBmenp4MUN5S19BMjNfeDFNTTY1a2ctTXViTDZ3Mmw1MnR2UHMxV1RLSzBfSGlvUkFBOW1sa1hDbm1EMWxGNGRydDZ1RVNoendadkRid0dBWEFPLThNRlU5VFdKek9ETVlTMVFmOFRiRUpWSGFQLVZZOGQ3WUY0NGJYSGw2YkJBTDlYOVpPZEN6QXFuWnM1UktJLUpmU3hubzdNZnhTd2lWenQ0WmxVcHhzM2c1Z1V3?oc=5",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "published": "2026-11-22T03:00:04+00:00",
+      "summary": "Muốn tăng trưởng 2 con số, Việt Nam phải tạo dựng lợi thế cạnh tranh khác biệt Tạp chí Kinh tế - Tài chính Online",
+      "topic": "science"
+    },
+    {
+      "id": "9810f5f966121c957310",
+      "title": "Mở rộng ứng dụng AI, nâng sức cạnh tranh cho doanh nghiệp nhỏ và vừa - Tạp chí KH&CN Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeU5mVHJwa3FZbldmZDJmT1lMYTU1SGxQWHJMeWY4d1Z3V0JXNXN5elIxNVA0RlhmSDcwYk9KT2VTTHVISmZGWlRRa2JPaFdxbEduYUN4T1dRRGxzcUYzR0pZZGExdVFkektqNEhtY3YzSm94X2t1MGtiZkNFZWhNMkNXeW5USmRzeVRnZEpLX050QTRMc29oV2FDYw?oc=5",
+      "source": "Tạp chí KH&CN Việt Nam",
+      "published": "2026-11-22T02:55:01+00:00",
+      "summary": "Mở rộng ứng dụng AI, nâng sức cạnh tranh cho doanh nghiệp nhỏ và vừa Tạp chí KH&CN Việt Nam",
+      "topic": "ai"
+    },
+    {
+      "id": "e2ba99650756e27f4560",
+      "title": "Từ phòng thí nghiệm đến thị trường: Cần nhân lực kết nối - Tạp chí KH&CN Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0FrRk5pYmo5T3h6N3VhZ3lCYllsdmRDWm9kWnBCc2JWeUdIVDhHa3BaN0ljZktCbmlmQzFnVGlsVEcwaEtBZkkyMk5IYlB0WUl0VHVZRV9yOVRNeDBuMHZaLVV0clJPblFMR2VSRXZkbHBTc1RLN2Y5RG5laVQ5dXppcG5jQTdGWHo4?oc=5",
+      "source": "Tạp chí KH&CN Việt Nam",
+      "published": "2026-11-22T02:55:01+00:00",
+      "summary": "Từ phòng thí nghiệm đến thị trường: Cần nhân lực kết nối Tạp chí KH&CN Việt Nam",
+      "topic": "science"
+    },
+    {
+      "id": "c715a2b657b8b517ff23",
+      "title": "Tự phán đoán bệnh, tin theo tư vấn của AI có thể tiềm ẩn nhiều rủi ro sức khỏe - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQejU4V1R5M3pjWnIxVmhXTzFsR1VWb05hX0VqSkhmM1R4T1lKRi1kNGdKQjF0Skl4RWk3YjdzLWpQQ0RvLWdmNnZEY3pzZktibVpPak55R2xEamVPbE5QWEs5R3VBcFU0eGlEeVhHdlI0em9sdzJZYTN4b2JvUGp2QlloU0xqT09lSnVKVkRlTHFaSDBva1BxVzczekFWUUhyNmRFMFlFYVpiR20tN1lucERaSTY?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-11-22T02:38:28+00:00",
+      "summary": "Tự phán đoán bệnh, tin theo tư vấn của AI có thể tiềm ẩn nhiều rủi ro sức khỏe Laodong.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "0aaee3138a4e51338c09",
+      "title": "Tôn vinh bản sắc văn hóa, nâng tầm thương hiệu tôm Cà Mau - Báo Nhân Dân điện tử",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUTdYZ05Jel9BR0J5UDRIWFllTHVmVjdZdUphZm1GOE0teTNyZERaQWNtMXlYSDUxOWdkTXJLZ3dxRFlMb3h3MmlKNFdSeHpWajVxUlZKLTdBcE9vVnQwTVJDOHBvMWJiUjZmVEVtRG5adlMxb1lqUmw0d1hfbnMydGZJYm90cDBlTU5UcGIwbUxaM2NxdnJZ?oc=5",
+      "source": "Báo Nhân Dân điện tử",
+      "published": "2026-11-22T02:36:55+00:00",
+      "summary": "Tôn vinh bản sắc văn hóa, nâng tầm thương hiệu tôm Cà Mau Báo Nhân Dân điện tử",
+      "topic": "science"
+    },
+    {
+      "id": "4bb166338891238afcb4",
+      "title": "Động lực mới đưa xuất khẩu rau quả hướng tới mốc 20 tỷ USD - Vietnam+ (VietnamPlus)",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUW1zVVVySVlFR2NGUFdiX1JCSkxjeHlfeEgtQXR1a01DT1R1LV9yTXdEWW5TcmpvUDZDTjNKekhDeDFLOUk3MV9LUGpTVDhjcDJPU2xqeGVWNFV0anR5eW1xbFAzZ0NhcjNGeUhkdDgtZGgxTVNPU1N1LW9SelRJbXNXS3kyLVhhalZtb1U2Qld2dE13aFRkUFhYcGtBWVdWSFNN?oc=5",
+      "source": "Vietnam+ (VietnamPlus)",
+      "published": "2026-11-22T02:32:38+00:00",
+      "summary": "Động lực mới đưa xuất khẩu rau quả hướng tới mốc 20 tỷ USD Vietnam+ (VietnamPlus)",
+      "topic": "science"
+    },
+    {
+      "id": "3f7f7a4ad7e299f76159",
+      "title": "Chuyển đổi số để nâng cao sức cạnh tranh của du lịch Việt Nam - Việt Báo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0ZuMDVwOUlxSnRBQkZMUkdITHVrRzUwbzhrcjFOZnBKNC1XR1VWYU8zWTRkUnRhVWpzRzlwQmJmdXoxdGZhbDFNM1BLS2dyQUlOa1BnR254OXhrVDJyU3V4WFdJclNQd19YY3FCUWpHd2NSd0ZFR1paMlp0dHdHTkhaSUFYQmdON2Z3cndGQ3QxaVdVRmxV?oc=5",
+      "source": "Việt Báo",
+      "published": "2026-11-22T02:06:53+00:00",
+      "summary": "Chuyển đổi số để nâng cao sức cạnh tranh của du lịch Việt Nam Việt Báo",
+      "topic": "ai"
+    },
+    {
+      "id": "16c64547abe7b9319818",
+      "title": "Đào tạo nhân lực biển phải chuyển từ “đủ người” sang “làm được việc” - Báo Nhân Dân điện tử",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVl8yaGhnQjlwejFHcUNtb2hidUMyR1YwdDhIQ1NaN3QyLWRmYkN4ZUVSNUpfODBfTG9XbVhYSVNucVZQYWhsN1IzUjhQcjBxSWxhUzdBeVc1RHliZXJ1azYtWlRFRWI3cVVHSnlOTGs5QW14ZU5BVUlqMjV3SVF3bnM0NzlsVVZFY3hLaDY0TWdObmFOejhDejcxV1BzSy1Ca3c?oc=5",
+      "source": "Báo Nhân Dân điện tử",
+      "published": "2026-11-22T02:06:30+00:00",
+      "summary": "Đào tạo nhân lực biển phải chuyển từ “đủ người” sang “làm được việc” Báo Nhân Dân điện tử",
+      "topic": "gis"
+    },
+    {
+      "id": "ce528e30c9c1dd82beb2",
+      "title": "L’Oréal Việt Nam vươn lên vị trí dẫn đầu về nơi làm việc tốt nhất - VnEconomy",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzVoODhQWFk0RU0xRjNsTzFDQ25YRE5kMnBoSlk5OHYwUF9BQUdzakp2dmpqWXNIQXVzRHpOcUt3YWdYSWJvZ3haeHJKTWgzVWM5dFhPVWZQWUsxbU1jbzlQMS0zdzhQM3FHSkt4Q1ZwT3NXcGpEMjRsYWlYYi1hbXM5NUhmVVdoZDVTSzF6RFVrckk?oc=5",
+      "source": "VnEconomy",
+      "published": "2026-11-22T01:59:50+00:00",
+      "summary": "L’Oréal Việt Nam vươn lên vị trí dẫn đầu về nơi làm việc tốt nhất VnEconomy",
+      "topic": "ai"
+    },
+    {
+      "id": "91645d06aacab4e8640b",
+      "title": "Khai thác giá trị vịnh Hạ Long - Yên Tử, gắn kết với vịnh Bái Tử Long - dangcongsan.vn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU3QzdWowc1NzdHpDSmdzZ3hkSDA1WU90MEhnQUZhNGxUaGZ0c3FxRHZtaUJGbEpjWU9vRjRJQXJHS2pkYnlsOTVPSVhkRm9IX0x1dkVCYzA0eXJiNV8yeGYtVWNOTG5HTURjNkVuT3JqNnlFWmFjWHJIc0piM3UyM2ZTOG5XUldlVUtPdFUwa1V1YmdFbnpPNmRqNmdPYXAtWHNGOUpfanVqSExwWktLNjBtUzJaUV9lM215MDE4NA?oc=5",
+      "source": "dangcongsan.vn",
+      "published": "2026-11-22T01:56:27+00:00",
+      "summary": "Khai thác giá trị vịnh Hạ Long - Yên Tử, gắn kết với vịnh Bái Tử Long dangcongsan.vn",
+      "topic": "gis"
+    },
+    {
+      "id": "be4fbabe512c083359cd",
+      "title": "Những định hướng dành cho lập trình viên trong thời đại AI - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazhWT1hyWlVsVTYtOW93Z2pENWppZElwS01rTTRzRVQtMmZpWkY2ZHhLdzJFSS0wRVFoelllWEFrVHhhMFUxeWhuNEdLQ0NIamhfNjJrSm4zMmdBTkVEQTZNdXFOaWNFNUl5aTVrbE8ta1p4ajlTTUlYMWhpTGJ4ak5hOGw2c0Rhbm5kYnJMVGhlNUtRMjZTTWx4WQ?oc=5",
+      "source": "Laodong.vn",
+      "published": "2026-11-22T01:53:01+00:00",
+      "summary": "Những định hướng dành cho lập trình viên trong thời đại AI Laodong.vn",
+      "topic": "ai"
+    },
     {
       "id": "c3122b718701724f05fb",
       "title": "Vietnam memproduksi kendaraan tempur infanteri dengan cepat. - Vietnam.vn",
@@ -68,6 +599,15 @@
       "topic": "ai"
     },
     {
+      "id": "e553c2cdcc071f93cccb",
+      "title": "Apple ra ứng dụng nghiên cứu sức khỏe bằng trí tuệ nhân tạo - Báo Tri thức và Cuộc sống",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTl0NUJOXzZZR3FYdm1VUndjR0l6VzdubktCUndKMjNibjZFMkR0Z3FYdHc2bDN2WTFrVkJpVGpNdnZ2QWJIQkJ0WWN4WGZKeHhEQ2NXMHdDcE5xMkN6R3o2SEZKeHF1ZVN2dW5RdVhhZzBGV3pobU4wRnBaR2FVUkxNalFmX1FVSnV2WjVPYTAyRTFXRl9RWTAyYWVxSGFnVGc?oc=5",
+      "source": "Báo Tri thức và Cuộc sống",
+      "published": "2026-11-22T01:08:22+00:00",
+      "summary": "Apple ra ứng dụng nghiên cứu sức khỏe bằng trí tuệ nhân tạo Báo Tri thức và Cuộc sống",
+      "topic": "ai"
+    },
+    {
       "id": "0e744129b281d152db11",
       "title": "Xây dựng thế hệ am hiểu AI: Tầm nhìn giáo dục mới của Trung Quốc - Báo Đại biểu Nhân dân",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTVGQlZ6SHk3dUlJS0VZUE9rY3pHaXE1UzBHU3R2R0YzS09rMnBxOFB3WndpYjhQM0lSQ1Zpa3JJMUJnREUwMjc0blgwR3lpUVkzS0d1Q2dGdlFoUmUwbEVDM200N2ltWUFTOC1GVno0N1hiYTVOSjlacjhDX0p6MndfZV9OOS1adHFXcFB2Yzd4TWZGV3dqcW96azVqRzdpYkpqQWJR?oc=5",
@@ -95,6 +635,15 @@
       "topic": "ai"
     },
     {
+      "id": "435c9fe82bd4c3db7358",
+      "title": "Dùng AI lập kế hoạch du lịch: Đừng phó mặc mọi thứ cho công nghệ - Việt Báo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeU02d0I4VWpwMUpRNmRIRWt3QzBBY1dneWwzWlVDNjZnVEw0ejhRMnFoTlk1SjR6ZUpGX3ZuTFRmQXl1Y2NVVE1Qa3p2bUNJeVdva3dsaVhDNmxvNXAtZk5OczN0NFljYTV6dkpMXzA1WEdhNmlfbUY5TW1zM25WN0l2TnBGcFpWdHVLZExGOFE5eUxSUF9BMlRR?oc=5",
+      "source": "Việt Báo",
+      "published": "2026-11-22T00:51:02+00:00",
+      "summary": "Dùng AI lập kế hoạch du lịch: Đừng phó mặc mọi thứ cho công nghệ Việt Báo",
+      "topic": "ai"
+    },
+    {
       "id": "97736c220e4b5c99dc6f",
       "title": "Dạy và học an toàn với AI - Báo Đà Nẵng",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91SXB6WXIxV0JQc2JoQmlvLUVyTUpGdU02cUtPSmpvWWYwelRfNU5ZVnBsU0VaM2RzbDBwa2ZScnBoZ2t3TkdOOUdIRmxWQy1fWTZJQXh4SnVIZmwzOEJMaTBQRzVPQW43c2ZJ?oc=5",
@@ -110,6 +659,15 @@
       "source": "Doanh nghiệp và Tiếp thị",
       "published": "2026-11-22T00:27:00+00:00",
       "summary": "AI - động lực tái cấu trúc và tăng trưởng doanh nghiệp Doanh nghiệp và Tiếp thị",
+      "topic": "ai"
+    },
+    {
+      "id": "85e5b08c08c13ccb98d0",
+      "title": "Việt Nam trở thành thành viên đầy đủ IEC: Cơ hội tham gia định hình tiêu chuẩn điện quốc tế - VietQ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbW5iS21KZWpXcm5aSjVKNmRfZEJUN190TndQeUhqMmhVY2NoQllCbTF5R0dKN2h0eVlsUXVzSkdCSHBkWUEteGdzMkhsamNPQnd1dW5JZGRfb1dFWlQ5TXhhNHR5UXdvX2VVV0wycEpWbkxobUIwOG5pbElGZTk5S05uMDcySEY3dk85Q25sOHJEcHo5WnpZTjc5N3JndXM4N21VMDJVUlBxWWVYOXg3amVBVDN0Zw?oc=5",
+      "source": "VietQ",
+      "published": "2026-11-22T00:13:00+00:00",
+      "summary": "Việt Nam trở thành thành viên đầy đủ IEC: Cơ hội tham gia định hình tiêu chuẩn điện quốc tế VietQ",
       "topic": "ai"
     },
     {
@@ -239,6 +797,15 @@
       "topic": "science"
     },
     {
+      "id": "4c734f457683c8300ade",
+      "title": "Việt Nam chuyển hướng thu hút FDI: Từ nhà máy và việc làm sang công nghệ, nghiên cứu và phát triển - Vietnet24h",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1BuYXkxWVc2QjVhNXpVZVBDeGJ3bzZpcmFSTE9UZEpwLWtTeWtnNDVNTVN5VU9qTkFpckdRcGpVRERkSGpvbU93a1Fpc2E4Z2hZR1kzOUZqT0FBR0d4SnZ5Y2Fpd2NkaW5HN25EcDZ4a2tmQkEyc0xNdjgybjM1SmFqUWRySDlxeWhrbGVNdTk1M0ViLUJWUTdhUWJkMGZOWmhBSGh0TXZlZzZrMEZCLXdNVVUxSmU0TEl3Ymtid19GdGVWY2tVN2txYw?oc=5",
+      "source": "Vietnet24h",
+      "published": "2026-11-21T20:30:00+00:00",
+      "summary": "Việt Nam chuyển hướng thu hút FDI: Từ nhà máy và việc làm sang công nghệ, nghiên cứu và phát triển Vietnet24h",
+      "topic": "ai"
+    },
+    {
       "id": "3286b951aac88c87537b",
       "title": "20 sinh viên Bách khoa Hà Nội nhận học bổng ý nghĩa nhân Ngày Nhà giáo Việt Nam 20/11 - hust.edu.vn",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaVFDU0k0N1VyZVRVMTJzNkRTU2dIT3pQZTFyMW50LW5YQVZrNE1PUTJsYldUWGw3eHFMNDlqZGJSczFucG80blRxUTd4Z2tTeEpRZkMxeGNydWlzZ1RmN3Zhc0pWWk1WVGszbTJkTVpPQTlKU0Z6emdGSWZTTUJpeEpQYWIzS0Rqa185MjUzTGNRWUdmVmZhcUtuMWl6ZmNwU0NvZWRPSjVCdEdlMTFtdVl1X1NpQ21jbUhiazA1S2o5ck1NXzFSeW4tb3gzOGFKd2N6bmpNX3o?oc=5",
@@ -290,6 +857,15 @@
       "source": "Vietnam.vn",
       "published": "2026-11-21T17:03:41+00:00",
       "summary": "Hưng Yên: Hội thảo quốc tế bàn cách đưa trí tuệ nhân tạo vào y tế thông minh Vietnam.vn",
+      "topic": "ai"
+    },
+    {
+      "id": "e1e0ff87590472e15bc4",
+      "title": "Công ty của con trai tỷ phú Nguyễn Thị Phương Thảo phát triển nền tảng số trong chương trình kích cầu hơn 30.000 tỷ đồng của TP.HCM - CafeF",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNenhSU2swTVVBT2NzYjJfNTRET2VNUHdXdXJiaERSbXhvbXd1aENoY01sekJuemRTOGhncExNeUJ3cHdRWld5cFFCLW05VnVQR3ZjeDlUWU5OYXhfeTR4Y0s2V29pRGN0VHlDdHAwMVhPaGFXMmVXMjNGTHF3aHpZM1BicHNCZDI5b2E1M1FQUHNGV3Y3d0VKY1U5YjZYLVQ2d29RU3k4aFY5cXp0aDRoQWJUNU15Q0FkSjJuMzhDMDN0cEw4SmFqQWtYMnlzbVVxOV82ZkN5a29jY0NwNXh6STRIZFZZRjlWYkE3VHNMaUJlR0pwRGtydFZzUEJUZw?oc=5",
+      "source": "CafeF",
+      "published": "2026-11-21T17:03:00+00:00",
+      "summary": "Công ty của con trai tỷ phú Nguyễn Thị Phương Thảo phát triển nền tảng số trong chương trình kích cầu hơn 30.000 tỷ đồng của TP.HCM CafeF",
       "topic": "ai"
     },
     {
@@ -446,6 +1022,15 @@
       "topic": "ai"
     },
     {
+      "id": "d291fc6d5c958d29969f",
+      "title": "Bảo vệ chủ quyền, khơi thông nguồn lực phát triển kinh tế dữ liệu - Báo Công an nhân dân",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVZBS2dfVGdiV01nN0hYWFJleG9DS09JSWwtbGVBaTQxdDFhNkZQa2pUNWQ5bjlNNEtrTjhkRWZfNE5kcXdHXzhYanpYVGl3eGZCc1lTX1o4QjExNURiVkdiNWl4ZGlIalh2QzZRYkFSTTZIZ2g1OEZWV0tuLTM0dmY2NnlrSmZIRDVWRW1aTUpOTFhLY1FoNjliNzQ?oc=5",
+      "source": "Báo Công an nhân dân",
+      "published": "2026-11-21T13:46:36+00:00",
+      "summary": "Bảo vệ chủ quyền, khơi thông nguồn lực phát triển kinh tế dữ liệu Báo Công an nhân dân",
+      "topic": "security"
+    },
+    {
       "id": "51300d57731a96780142",
       "title": "Từ lừa đảo nghìn tỷ đến trách nhiệm pháp lý trên không gian mạng - Báo Công Lý",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaFBYdElIX3R6TTVyaEtGOGxwN0FBT1J1aG9FSlNvMndYRGN6VFQzbDNqMkFKZUxBSmRsN0RJNVQxUVVmZWkwUDMwVE5xaHVpRld2SmJBeTJwbXBydi1fNk8wR0lMUUxEZ0FIa3JVQU9MeXAzSjl6b2ZWN3ozNk9BZmJ1NVZ1SWNWaXRyNEZSdmtISXJxN3QxdXlB?oc=5",
@@ -462,6 +1047,15 @@
       "published": "2026-11-21T13:28:32+00:00",
       "summary": "Tăng cường an ninh mạng trước các cuộc tấn công bằng A.I. VTVgo",
       "topic": "security"
+    },
+    {
+      "id": "1248a983e2187f07ab8b",
+      "title": "Hải Phòng tăng cường hợp tác với Viện Khoa học và Công nghệ Hàn Quốc trong nghiên cứu, phát triển và chuyển giao công nghệ - Thuonghieucongluan.com.vn",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb2JnRXhNY081bUFPejBDc21CSXVyLV9NVVFtbjNvSFppaFkwQ1JpRjZsZHoyc0tUalNITnVNLWdOYWtTQWtHVzluLWhPdlBOUzJYSFBoa2lBa2NFYWVyRExlbnhYNldvNTBoWTZONkMyYW9peHZMNmxpTW9ST0ZRclQ5U1RzVjlWX2ppSVlMb2tDcUctbzFTOUFBX1I3OGJ5R25jNHBqaFNSdnlwcnQ0ZkhRcy1CR2stOTFhWHhXSER1X180TER0SHNPMDU3UFB3RWNvTW1Cd2hQbFN2QzVmVU0ybUdMWVNjMFpRZXpEYVZUeS1aaE84RHhFT0M?oc=5",
+      "source": "Thuonghieucongluan.com.vn",
+      "published": "2026-11-21T13:20:00+00:00",
+      "summary": "Hải Phòng tăng cường hợp tác với Viện Khoa học và Công nghệ Hàn Quốc trong nghiên cứu, phát triển và chuyển giao công nghệ Thuonghieucongluan.com.vn",
+      "topic": "science"
     },
     {
       "id": "fce2f08e97a08e13f225",
@@ -659,7 +1253,7 @@
       "source": "Báo Lâm Đồng",
       "published": "2026-11-21T11:51:01+00:00",
       "summary": "Đào tạo AI gắn với bài toán thực tiễn Báo Lâm Đồng",
-      "topic": "science"
+      "topic": "ai"
     },
     {
       "id": "02c00638448723072540",
@@ -1284,11 +1878,11 @@
     },
     {
       "id": "3e50645be17ebbc4a795",
-      "title": "VSAP Lab, nhà máy đóng gói chip tiên tiến đầu tiên ở Việt Nam, có công nghệ gì - Tia Sáng",
+      "title": "VSAP Lab - nhà máy đóng gói chip tiên tiến đầu tiên ở Việt Nam có công nghệ gì - Tia Sáng",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcENDRlJlX1M2SjdfT294MWNlQ3VDMXZZdWlrQUdyR0EzN1pzNElrU3Q4Z2liRW02QW1IeThpbm1DMXlMR1I0eHgwQkxtdTdMTjNzc2lNS0VhVHBjZ09xSkxKWm00X3k0WndyVlBqT1QtM0NaNFNxckNjYVUyV25xTlFSYkJndzBjTHBod0FyaWFYUUJkclZta3JSUXJid3FRSmVwdHpNeVhqNjh1cWJ3VklR?oc=5",
       "source": "Tia Sáng",
       "published": "2026-11-21T03:54:46+00:00",
-      "summary": "VSAP Lab, nhà máy đóng gói chip tiên tiến đầu tiên ở Việt Nam, có công nghệ gì Tia Sáng",
+      "summary": "VSAP Lab - nhà máy đóng gói chip tiên tiến đầu tiên ở Việt Nam có công nghệ gì Tia Sáng",
       "topic": "science"
     },
     {
@@ -1479,6 +2073,15 @@
       "published": "2026-11-21T00:25:00+00:00",
       "summary": "Cục Thông tin và Truyền thông Chính phủ - Tập đoàn MISA ký kết hợp tác chiến lược về chuyển đổi số giai đoạn 2026-2030 vpcp.chinhphu.vn",
       "topic": "ai"
+    },
+    {
+      "id": "23fe4a2a727d28538478",
+      "title": "Pháp và Đức tăng cường bảo đảm an ninh mạng - Báo Nhân Dân điện tử",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk5UM3YtWGpWZlNQRnFKVHdBaVFjeTdtYkIyVEdyaUt4RS1ITG9KWndxU2N6U1JJNmZuNm42bUlKV1FXWlFBb0xxNVhqV3NTVnZUZWpQcmVZb2xPaUc4LTRhSjZqSXJROUtEaW0yUENtb2VGLWF6V091cWpndGVyS2g4OFlFUQ?oc=5",
+      "source": "Báo Nhân Dân điện tử",
+      "published": "2026-11-21T00:09:13+00:00",
+      "summary": "Pháp và Đức tăng cường bảo đảm an ninh mạng Báo Nhân Dân điện tử",
+      "topic": "security"
     },
     {
       "id": "82a45a9ec4a869aa2df9",
@@ -1811,6 +2414,15 @@
       "source": "NHKニュース",
       "published": "2026-11-20T11:51:53+00:00",
       "summary": "Nhật Bản tụt hậu về sử dụng AI trong an ninh mạng NHKニュース",
+      "topic": "security"
+    },
+    {
+      "id": "53d1df1796aa870c33d1",
+      "title": "​Quốc hội thông qua Luật Định danh và xác thực điện tử, Luật An ninh dữ liệu - LuatVietnam",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSDU5cGN3NFphV1dUQ3I5ako4QlBsOVgxR1FqU1I3T2JYTGE2M1dBcjRpVTZVVzh5UG5RMElCM0FIR3VMd2VaRUlTSGtZLVdDNzVCcGM4eVpxT1JEb1g1Qmd1dGt5c3Z4TmZmWlRzQ21vaDBTVVlPNnNndnJLNk5URGtKY0VER2FBOXRXRHJTdkJyYmJRb05lZ3ZoRjQ3Q3NLei11SkMxOTRXR2h2Qkt3NXJfYUpJd0MxRDQ5cWMydGxvQTVJTzVaeTBhVFdHdlNhSHRn?oc=5",
+      "source": "LuatVietnam",
+      "published": "2026-11-20T11:46:50+00:00",
+      "summary": "​Quốc hội thông qua Luật Định danh và xác thực điện tử, Luật An ninh dữ liệu LuatVietnam",
       "topic": "security"
     },
     {
@@ -2390,6 +3002,15 @@
       "topic": "science"
     },
     {
+      "id": "2eca7eca753c3de9fdf7",
+      "title": "TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia - xaydungchinhsach.chinhphu.vn",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNREJMaGUyOTlsMjJJTnAzSXNoY2JsY21kUTJZeGVycERkWHVtbVJ4WE1EMzVNaERsYzdpbFA0RWQ2cFNPZjNzRmk5eXJEMjF1SlVYbmVwQjU4TWN0UFBjQWNfRmRJQ0JIN1pNVFNRZzMtcE5FMEU4TmRMV3ZTYmpnTUNlV0pKUmN0dndtVVFvYXcwZWI0TS1aUC1NZng0TWhLVWQzNTh1SVE2N3VtUko3YVIzbHdROE5TQVBCRzc4bk12M21NYlpKUVlya3JwYkxKV3dGdW9GWVQ1cGpNMXI3UE1kNC1PSERoMjgtSFlmYWFtOFJ2SXc?oc=5",
+      "source": "xaydungchinhsach.chinhphu.vn",
+      "published": "2026-11-20T08:00:00+00:00",
+      "summary": "TOÀN VĂN: Nghị quyết 57-NQ/TW về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia xaydungchinhsach.chinhphu.vn",
+      "topic": "science"
+    },
+    {
       "id": "28342fd0cd369276ebe1",
       "title": "Trường Đại học Thủy lợi long trọng tổ chức Lễ Kỷ niệm Ngày Nhà giáo Việt Nam 20/11 - Trường Đại học Thủy lợi",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnNwQ2RTMUc0YTRlOUhFc2VGaDZuazdtWHBqX25HTmJNYkcxVlJJN0VYLVk4OVRVZm5GRE42VVNBcERFLWhUVEpxcERJU1hvYTFDMDE0ZkNGaU5DY3RPWVdBSF8yNFRkTEVXM2JkV2Y2M2VHcEJtZXpmZFFlVlNnOFdMODhXTTJsSUtrU2VCYVdrR002Um5Qdnl2SlFxcm03YmVISEF5T0JyTEVJaHg1bGJMVQ?oc=5",
@@ -2576,7 +3197,7 @@
       "source": "baochinhphu.vn",
       "published": "2026-11-20T07:00:00+00:00",
       "summary": "Việt Nam có cơ hội đi tắt đón đầu trong y tế nhờ AI baochinhphu.vn",
-      "topic": "science"
+      "topic": "ai"
     },
     {
       "id": "a15e6b4b2b85a2682dc8",
@@ -3881,627 +4502,6 @@
       "source": "Báo Nhân Dân điện tử",
       "published": "2026-11-19T14:11:54+00:00",
       "summary": "Mở rộng những góc nhìn về thế giới Báo Nhân Dân điện tử",
-      "topic": "ai"
-    },
-    {
-      "id": "78a57714ad1752cb06db",
-      "title": "Học viện Khoa học và Công nghệ trao bằng cho 59 tân tiến sĩ và 38 tân thạc sĩ - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2JKdXJLVlFDTklFdVBUTlV3eEcxakIyWm5hOGhLWUFkREhtV1Y4b2hlZVFjU0JfeHluWnJOSjF4azBQUUZCTTVlXzJpa3lkem4tXzRKU3JTa0g5RnRxVlk3MGNPVWtHOFRPUlhOSnNrSktwOVJ6YTNFdzZMWklEbXdHaDRaNG9XNWVKOWk3Z2dPb3BMV0hfTmd6cWpGX0h4anc?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-19T14:10:58+00:00",
-      "summary": "Học viện Khoa học và Công nghệ trao bằng cho 59 tân tiến sĩ và 38 tân thạc sĩ Vietnam.vn",
-      "topic": "science"
-    },
-    {
-      "id": "56095a7e245afeac3a3d",
-      "title": "Tình báo Mỹ lên tiếng vì sự cố an ninh mạng - HTV",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdW8zbDVacG5pdWRpbVNYTnZweDBMNjd3VnVUbXpVT0pwRU5IbDZiZG9jcnVIYlUyMFNiVk1lR21mMi14ZkxPdHBneXhOM1pUR3lUdF9sN2dvWUU4Zk5Ec2FybG9oZVdhX3A4WDE4U3NqYk85NGdtZThBcUtYaDRxWk9neUR5QmVk?oc=5",
-      "source": "HTV",
-      "published": "2026-11-19T14:05:00+00:00",
-      "summary": "Tình báo Mỹ lên tiếng vì sự cố an ninh mạng HTV",
-      "topic": "security"
-    },
-    {
-      "id": "b8bd878797d0b2194ffa",
-      "title": "Metano huy động 12 triệu USD vốn hạt giống để bảo vệ các tác tử AI trong toàn doanh nghiệp - Unite.AI",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR1cxd2E5bVZLVV83ZjUxY3YwNHRGY3BJT2J4M2JWblhWVnJyNUhsY3c5SXBtM2Z4Mk9YdkIzMGxmY0RJU2hlbjU0QkhOd056NzFVakppa3FXbjJ3RTI0MnVQSkpyT2tSbEdjaFdOUm40cy1Xbms1eFhNdTBkUEtsT2loZTJ0VFVxVjdEYUF5V1ExQ2c?oc=5",
-      "source": "Unite.AI",
-      "published": "2026-11-19T13:48:02+00:00",
-      "summary": "Metano huy động 12 triệu USD vốn hạt giống để bảo vệ các tác tử AI trong toàn doanh nghiệp Unite.AI",
-      "topic": "security"
-    },
-    {
-      "id": "0eb35de91df2c4cdd99a",
-      "title": "Đoàn đại biểu Báo Pasaxon thăm và làm việc với Trung tâm Chuyển đổi số và Công nghệ chiến lược Đà Nẵng - Báo Nhân Dân điện tử",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNlJCWnpQdUZoOHVBT2JSWGxxVGJTNkY2djNfenJzQTZBRjBLVEN1aEhpUE9zb2dpMFA2eUFwWkpqdEVpUWJ1RGN3Y3RfWUQ5Zy13cXZjdTB5blpuS19iR3d3SkIybHFYMlRKdnBNUlIyV290ZG1BQlV3VU1vWVBvYzV1S09EdVpOOGhGZ3VTZnQwQmJEV3F2eXVJb1E2TUE0YjB5aHhoSnFhbkcxSmVjX3RuODdUa1JmX1RNYURnZDM4cEM5U25QOUU4TzJEMm10UXN5dw?oc=5",
-      "source": "Báo Nhân Dân điện tử",
-      "published": "2026-11-19T13:47:36+00:00",
-      "summary": "Đoàn đại biểu Báo Pasaxon thăm và làm việc với Trung tâm Chuyển đổi số và Công nghệ chiến lược Đà Nẵng Báo Nhân Dân điện tử",
-      "topic": "science"
-    },
-    {
-      "id": "4a40ba1b35fd1b07810f",
-      "title": "Hà Tĩnh đặt mục tiêu phát triển ít nhất 35 doanh nghiệp khoa học, công nghệ và đổi mới sáng tạo - Thuonghieucongluan.com.vn",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFBzQVkyZnloMjBEaDBFc1ZDRk1ZcG1JU3hjaWk5cXRaeVBkTFRYZmhYTk9TWFRvODdZV1BvMkt6SU1HUXkweXVSQ2ZheWNwVXN2ajdXRkR1MXZDNEg5NVhiS3RCaHdMVGZNLXZEU0FDenNyUWFobk02NHlrdHZ2Q3B4bzB0R1NlOG5wSUlicV93OHZnZHZ5WDh1VHhTRl9NUGtRRXdZOE5tbGM0TmVPOE8wd0M0STA5UWthMU1pNjVFaWtxa2R2VWl2WVBSUm9jNW5aRjZOZFI?oc=5",
-      "source": "Thuonghieucongluan.com.vn",
-      "published": "2026-11-19T13:45:00+00:00",
-      "summary": "Hà Tĩnh đặt mục tiêu phát triển ít nhất 35 doanh nghiệp khoa học, công nghệ và đổi mới sáng tạo Thuonghieucongluan.com.vn",
-      "topic": "science"
-    },
-    {
-      "id": "d371bb6ae30009698ede",
-      "title": "Mỹ - Trung Quốc: Quan điểm trái chiều về kiểm soát trí tuệ nhân tạo (AI) - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0ZGbDVQRVAwT1hjLVZZUGVmMGxhcDBxTkVuaktYWUNSRkZVYlBhSi1hWkEyTjJPMnhqV1dyLWxwMXYzVGRXN1UyNmtsaUd1ZVh2UnE3cWtMMFE0TzBFdml3M0RhT0g2VDZEdm9BdnVEUEp4MEVYSkpBdU9hTURIWEQtN3A0emhmTlh5WjFGRTVBY2dn?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-19T13:36:51+00:00",
-      "summary": "Mỹ - Trung Quốc: Quan điểm trái chiều về kiểm soát trí tuệ nhân tạo (AI) Vietnam.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "cb62d9931ded52d98030",
-      "title": "Bộ Khoa học và Công nghệ hỗ trợ Quảng Trị chuyển đổi số cấp xã - VnExpress",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVmt3eHBpN0UxQnd6b3ByLXVnVkFEanNZQkF6Y0xadFRNbDBvTkM4UTY1TTBQcTVRM05IYXpxdVdkd2tBTDlLMnVHejhJRzFOTFVva3g3Y2F0QXpSLVJWRjcwV2F4WEZMc2xhazY2allnUTR3TlA0Y29ndmtaYVVUVGVpUTdOQW9RSjBVVUFQalJ0bWFXMU5RcEZvNXpVZw?oc=5",
-      "source": "VnExpress",
-      "published": "2026-11-19T13:32:07+00:00",
-      "summary": "Bộ Khoa học và Công nghệ hỗ trợ Quảng Trị chuyển đổi số cấp xã VnExpress",
-      "topic": "science"
-    },
-    {
-      "id": "8aa42420e35b9c111188",
-      "title": "Đổi mới đào tạo, phát huy tiềm năng nghiên cứu toán học - Báo Nhân Dân điện tử",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWWE3VzU0LWhhU1J5TF9UYjdpNTB0c0ZwUUx3UmIyVXBDYUdxUjM4NHZzckJZYzUyMzVuQ0JRUUNaWWZNQng3MHBpSkJxMXpoWDEyZmZDV2YtX3BVQkFwdkJhdXA5SHY0U3pTeVlZWGlQc3VqRHJJNDd0dlE2bW9QVWYyUTVrd3A5cklNTzB6OUt0Q2hP?oc=5",
-      "source": "Báo Nhân Dân điện tử",
-      "published": "2026-11-19T13:28:59+00:00",
-      "summary": "Đổi mới đào tạo, phát huy tiềm năng nghiên cứu toán học Báo Nhân Dân điện tử",
-      "topic": "science"
-    },
-    {
-      "id": "c1c87f9ad74ec9888409",
-      "title": "TH true MILK lập kỷ lục về số lượng sản phẩm đạt Thương hiệu quốc gia Việt Nam 2026 - Báo Nhân Dân điện tử",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnVYZmZDdTBEV3J4emFzb0psbUdERUdqQnlXOG1aVDR0cmhlU0ttWFFiSmVJdFo4V0pSN0kzcktUSlcwTlM5bFY2ZkhTSHBtTE9hbGt2em1HRjNuMEdSYjduUEh3Ykw5OU9tOVE0NlhBd3JZYk50Wk9LT2pvOHd2NENJWnpIVFFlUmdmdG13bm9UUTlMdmRrSG1WVWlfb2lYS09neWtBSFRBZnJyaUd6Nm9WeUtKRy1hclow?oc=5",
-      "source": "Báo Nhân Dân điện tử",
-      "published": "2026-11-19T13:27:58+00:00",
-      "summary": "TH true MILK lập kỷ lục về số lượng sản phẩm đạt Thương hiệu quốc gia Việt Nam 2026 Báo Nhân Dân điện tử",
-      "topic": "science"
-    },
-    {
-      "id": "aa776da9252321523074",
-      "title": "Quảng Trị hợp tác với Bộ Khoa học và Công nghệ thúc đẩy chuyển đổi số từ cơ sở - Thuonghieucongluan.com.vn",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR2JmeWM0SkZDZmR1LTNVWGRTWTdHdnFtUVVEUUpZVEo3YlhHVXA0bzBWZ09IRDNZTDBpQnZuV2JlaGVGVVJzN0JOYUNySFhOZ21QdTBHVVA1UmN4Wmt2MGF3N0ZMS0VHbFBmUDBBZll2VXJPSkRCNVZSVWpkWm8tLUttQnA4MTRMTmFRcG1ybFJVV250ZE4wSXh4NUdJUmtzekxJdUtEYmdsWk1nTTB1NTZfenZQVTVVNDdHUkhycE9oWjQ?oc=5",
-      "source": "Thuonghieucongluan.com.vn",
-      "published": "2026-11-19T13:27:00+00:00",
-      "summary": "Quảng Trị hợp tác với Bộ Khoa học và Công nghệ thúc đẩy chuyển đổi số từ cơ sở Thuonghieucongluan.com.vn",
-      "topic": "science"
-    },
-    {
-      "id": "f799ffece3ab0ccb9510",
-      "title": "Đà Nẵng đẩy mạnh chuẩn hóa dữ liệu, ứng dụng trí tuệ nhân tạo trong công vụ - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXY2V0NndFlMdXowZUFsUnpSb19GUDdDNlFLTFFodWYtTnBzMjl5UG1uekRyUnJSSW1Rc2pqTFpzVWdtUThpTEZLNTB5bmZtZmdKQXdHZEdjRmw4ajhTYVgzUmlnbVFDWVAwdjRtalE3cXFKbHFLZUlVcjJkZWttOTJLQ09FNU80YlpGb3BOVEg4Z08zdXU3Z19reXhTdw?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-19T13:17:05+00:00",
-      "summary": "Đà Nẵng đẩy mạnh chuẩn hóa dữ liệu, ứng dụng trí tuệ nhân tạo trong công vụ Vietnam.vn",
-      "topic": "security"
-    },
-    {
-      "id": "539250117c928e31e8a3",
-      "title": "Hàng loạt sự cố về công nghệ tại Hoa Kỳ và những rủi ro an ninh mạng trong kỷ nguyên AI - RFI",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSHd1X1d1VmNhME5TQTFvTFNJem5lR0syeTFaZV85Q041U1lxOUJvRzFvQ2p6X0QxaTVhT0M3WEJEMzc3cFA4UVJTVjA4dHZ4LW5QVE1sRVVzZ0pFT3hCSlNuUmdxZS02SThvc1owUENyd1hfT2JGVGZGQ080bDlESUZVRi0tbXZpQVdiOXVWZlNLckd0VnBWcEJGRVFqRjBSTF9zYTd2Y1dXNy1wQ2VhcDRJR1JDcVo5VDdlRUdESkFGWVVubWJpYURTSXQya3diVmNBeHMybzFMNzNBQ21RVUt3d3c3Y2hRaGFNUGR6UWFrTXZlNVQyeVpMb3M2MU9UMTluTG9CYTVGdm5CV0s2SEhxTkNnNFpRM1h3Q2NhMmRrZnQ5TjRBQjA1aVU4LURZS3VELWtjSDJBdlZyQ2VCRDQtYmlHb0tFMzZySGhtTDA4TmxFSDB2UUY4cVhma0VmUm5xemNjeEdqUQ?oc=5",
-      "source": "RFI",
-      "published": "2026-11-19T13:12:27+00:00",
-      "summary": "Hàng loạt sự cố về công nghệ tại Hoa Kỳ và những rủi ro an ninh mạng trong kỷ nguyên AI RFI",
-      "topic": "security"
-    },
-    {
-      "id": "c62bc1b2bb983a3a9953",
-      "title": "Tích hợp AI vào chương trình đào tạo kỹ sư chất lượng cao Việt - Pháp - dangcongsan.vn",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHNCbWV4UDdtb2NOZ19fMEFGVnFfN19qbFpIdTJKS0VGcUlnT1hnb3AtUTJtMHJGUlE1T3ZoZ1A5ekFtMmdlRkxlcDFDLXZxWUo2ay0tZUZKM3JjREVSZURsYzU5UXo4c1V4dnlGMDZESThtRkxuRFh5UEgwRFdpZUdOcVVwNmdOcGdxcWhMcTVMa3ZaR0VGYmk3X05kVVNvLVRUbDM4U2tJVE5oVWRBbk9Kd2dhQXJ5OHVKOXUzOTNhZ1dVMXc?oc=5",
-      "source": "dangcongsan.vn",
-      "published": "2026-11-19T13:01:09+00:00",
-      "summary": "Tích hợp AI vào chương trình đào tạo kỹ sư chất lượng cao Việt - Pháp dangcongsan.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "f63f809fe7c675009b47",
-      "title": "Bài toán của doanh nghiệp Việt Nam trong thời đại AI - VTV.vn",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2VWeDFfeVFCYVJJRTRDX05DRnlYbG1LZlMtaUlUZWJuYTd3Wi1QS1ptOWRtYVFhckRzT3BPbl9BZmtRakprOXFsVDlFdndtQVFmX2tfNVVaVzBqejgtN04wY1E4UWUxY21PaW9mdFozR1VZb2ZHcUNKNVZtbUNVN09LeXlyU3hIcXR1Y2NDcEJGOGtF?oc=5",
-      "source": "VTV.vn",
-      "published": "2026-11-19T13:01:00+00:00",
-      "summary": "Bài toán của doanh nghiệp Việt Nam trong thời đại AI VTV.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "41afe43ce9a677c3fb18",
-      "title": "VNPT và Qualcomm ra mắt thiết bị thử nghiệm AI Gateway Wi-Fi 8 - Báo Tuổi Trẻ",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU9ITmFHU3doTXRfbC1jQnF5OGk1bWFFQjYtOGdBQkVYMGhsNnRhUmUzR3E3NTV6MXdDMTh4YmpHcE9ERXRaSGF5UGdKdjRMMU1fenozQ2NCUXAtZTROeERmc2Fva2NDSGVLODhVV0trMFFTb1Y2YU1SUzZoM0JfUTB4eW42VGxxNHZ3VHdNWUJzNkVwaFJ3OVpjLVNac0NpQmw5d0JyRQ?oc=5",
-      "source": "Báo Tuổi Trẻ",
-      "published": "2026-11-19T13:00:00+00:00",
-      "summary": "VNPT và Qualcomm ra mắt thiết bị thử nghiệm AI Gateway Wi-Fi 8 Báo Tuổi Trẻ",
-      "topic": "ai"
-    },
-    {
-      "id": "06ddd945c4fca5d622ec",
-      "title": "Nghị quyết 57-NQ/TW: Huế “đòn bẩy” cho cải cách hành chính từ công nghệ và chuyển đổi số - chinhsachcuocsong.vnanet.vn",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPazZmVzVabXJVX2s5NnZvOG5Sa0VjZXdXXzRNZkhnZDdycUJWRHgtcXhOUTJHekhHSzBxRUZhUjJUN0FNenVjM0I0MlhiNmdsVDljejZSMU9vdEw3RG1nbmNuNUpJOWR2aWlQc3VWMmxOZDROTVctNHZzYjg0bnYzZG54Vjc1OHdNOTdKOXRsTDZTNldNcndaRU1mclRkWHlyTXJOWmZNUGxpc2JsN2QxSGh2SmhIVG9VSlZ3Z29xUmJtem4xcmJnZGg0UlFKdw?oc=5",
-      "source": "chinhsachcuocsong.vnanet.vn",
-      "published": "2026-11-19T12:57:00+00:00",
-      "summary": "Nghị quyết 57-NQ/TW: Huế “đòn bẩy” cho cải cách hành chính từ công nghệ và chuyển đổi số chinhsachcuocsong.vnanet.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "b37b406c9d0e37547c20",
-      "title": "Cần Thơ nhận diện rào cản, thúc đẩy kinh tế số trở thành động lực tăng trưởng mới - chinhsachcuocsong.vnanet.vn",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZVVzbEswMEdjNFJaaXpuVWp6d2laVkZnZG14c2VhXzlsbTR1ZDA3UlJnSlFjeE1GWFJOUTVRTVBubjhyVXRyWHdhU1ZyVTRwSTJlYjJYLWhmeEhkUGJMS3FMR2I4eHZnT1ZGX0xHRFZDRFpEV2R4SzdzRTl0aEI1a2JRVVRPNVZkSm5wVDFoSEF4bU9Gc3kydEkxam5rSzV2WnMxQndFTkpKTU1mTVNoOUpUbWEzcWFSNGN0blhwckhWWjFXaE9Z?oc=5",
-      "source": "chinhsachcuocsong.vnanet.vn",
-      "published": "2026-11-19T12:57:00+00:00",
-      "summary": "Cần Thơ nhận diện rào cản, thúc đẩy kinh tế số trở thành động lực tăng trưởng mới chinhsachcuocsong.vnanet.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "513689574bcbc4d043e2",
-      "title": "Doanh nghiệp tìm lợi thế cạnh tranh trong kỷ nguyên AI - Báo Hànộimới",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3drMDRqN3ZCVm81WDVnTkdZQjhnN3RldlQtTUcxd1QydnFNZ2ZDZU5qSFNYT18tYWlicmswUVRtYVdSdVpxODhWTWZycTFVSjlhRlB6YmpMV0I4WWFxOTc4ZzlranhhNmVtUk5Gem5lUlROclNkSHFYeEcxNEFIUkRsbDlXLUM2TzlDbWdIVGs?oc=5",
-      "source": "Báo Hànộimới",
-      "published": "2026-11-19T12:50:48+00:00",
-      "summary": "Doanh nghiệp tìm lợi thế cạnh tranh trong kỷ nguyên AI Báo Hànộimới",
-      "topic": "ai"
-    },
-    {
-      "id": "a44dd5b53d6f9717177d",
-      "title": "90% doanh nghiệp đã ứng dụng AI, nhưng chỉ 4% đạt hiệu quả như kỳ vọng - nguoiquansat.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRUVWZnpXZ1o3ckE5VmhoZ0F3bE80ZURLRmlsQWlOcVNKWXR6UWZvMVBoazQyRGt4ZTY5S2pVRFNLaldObVljcTNQeThTaW5wYng1Q280QjNrN0x4V2gtNlVtVFcwZkpxbFF3dm5lYVJlVUJZdVo4NDhDNVZxSDlsWWNNU01GdXFsWTB5MzQta3RxbVRSMEl0WjFSOGJIbFRiTE84bHZn?oc=5",
-      "source": "nguoiquansat.vn",
-      "published": "2026-11-19T12:50:01+00:00",
-      "summary": "90% doanh nghiệp đã ứng dụng AI, nhưng chỉ 4% đạt hiệu quả như kỳ vọng nguoiquansat.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "ad4336864af8e9dc1134",
-      "title": "Giải pháp AI ứng dụng cho ngân hàng 5.0 - Báo Hànộimới",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJUHZaYkJVRkZfeGFnaFkxNWlTdENJZVhVNTNDRzl0MUJYZVFHZHRfWmhZNnFMa1h1bE9PejZPcUZVeE8ySGwxcGN0WWc1TFBiYm16VnZCeEpCcnhBaXN5X0tLb0JLWFRILTRkdU0zQjZnMWNxZmRmaTVuVnc?oc=5",
-      "source": "Báo Hànộimới",
-      "published": "2026-11-19T12:44:08+00:00",
-      "summary": "Giải pháp AI ứng dụng cho ngân hàng 5.0 Báo Hànộimới",
-      "topic": "ai"
-    },
-    {
-      "id": "9a89ac98240b2416c412",
-      "title": "Khai thác hiệu quả AI, tạo lợi thế lớn trong cạnh tranh toàn cầu - Báo Công Thương",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHhxNGNsNU11N3VBdmlkRVVVWm1mRmdza1BZNFpoYmN4aGVTenUyNnlJQlRiaHQ0Nll5V2lsZ1hfSWN6VTFEdWMtd20tcG1SMlpUa0VXaGtEbUhRN0txcWRHTTRNdnI5ZVU0SUdna0c1bUs4RmNJR1lQaXowUjg4M2ZrbWh1Y21DTTV3TjQyeFRYemItQzBFcXM4NGFhUQ?oc=5",
-      "source": "Báo Công Thương",
-      "published": "2026-11-19T12:12:29+00:00",
-      "summary": "Khai thác hiệu quả AI, tạo lợi thế lớn trong cạnh tranh toàn cầu Báo Công Thương",
-      "topic": "ai"
-    },
-    {
-      "id": "32f127d5f1c08fc044d1",
-      "title": "Doanh nghiệp Việt không cần tự xây AI, nhưng phải biết dùng AI - Báo Công Luận",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeWNWcEhIZnRxVkZYR0lYOTBMQmYtX2IxYjQ2YWpsTFpwY2tJZzlyQ2ExSUY2R1ZzMVR6ZnRfNWNiT0RUampQWEhiekt0Rm5nYU1MX3RVRzdOQzlFNUpUcnhkSlhCTnp4aW5VNzVWZlpITVdZLVQyNWloTEFGRU9mQWRTY1VudlRLV1lfNWp0VWotQkpyMTBvaGlzUENRZw?oc=5",
-      "source": "Báo Công Luận",
-      "published": "2026-11-19T12:11:50+00:00",
-      "summary": "Doanh nghiệp Việt không cần tự xây AI, nhưng phải biết dùng AI Báo Công Luận",
-      "topic": "ai"
-    },
-    {
-      "id": "7875ed46259c57e1da7e",
-      "title": "Liên quân Khoa Công nghệ thông tin, Cơ khí và Điện – Điện tử vô địch Giải bóng đá cán bộ, viên chức Trường Đại học Thủy lợi năm 2026 - Trường Đại học Thủy lợi",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNkZjQjA3bU1sNFFON2J2Ny1LOGtSVFBySV9rbVFZZlFmUmJoVjRudGdHeHVQUkd5WV90VWJ1bVVWSGxXRHBjVmtpMEw0SnhOV3BaaUNFVjVpUWlMUG05VzAzbzVVeU9FNkxUdmFweVhXczdhOVlGTHlqbWNlcC1PWklWZExsUTNVNERVRm5ZWklaaXNtMUxLb1c3MXlJQzA0R19NRnpJVzVXTHdpTUFCWlhtWWo4TDVBUnU5V1A0bTJyUHBqN3ZaQ1cxZ2NiWjVfZXZkcXdLaTQtRkxQbHRnMXRoaTRGdzc4NkhENTBn?oc=5",
-      "source": "Trường Đại học Thủy lợi",
-      "published": "2026-11-19T12:03:50+00:00",
-      "summary": "Liên quân Khoa Công nghệ thông tin, Cơ khí và Điện – Điện tử vô địch Giải bóng đá cán bộ, viên chức Trường Đại học Thủy lợi năm 2026 Trường Đại học Thủy lợi",
-      "topic": "science"
-    },
-    {
-      "id": "4a85824fc4a9a69a144f",
-      "title": "Vinh danh 51 danh hiệu Top 10 Doanh nghiệp Công nghệ số Việt Nam 2026 - VTV.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVZiUElPSDhxM3dkdE9jT3puSEdFMkxzbmc1b1pwaUp2VHJGbWRZbGk5X2JSaGRqMVpzWTR4TGFQN09QVWV5enBGdUNtWjRkZzgzVXozNGFSRXptb3p5TjVSclc5U3k3aHQ1VUlpZzA1ZHRTRFpuQUZNVUhtdmRHaTdhdTNTcWpWN3g2dWVTSjdVV3JkZ1N4alI5N19tWnlfMXkzN0c4NTFoZUU?oc=5",
-      "source": "VTV.vn",
-      "published": "2026-11-19T11:57:00+00:00",
-      "summary": "Vinh danh 51 danh hiệu Top 10 Doanh nghiệp Công nghệ số Việt Nam 2026 VTV.vn",
-      "topic": "science"
-    },
-    {
-      "id": "17fe5cf9d6d3e829f0ad",
-      "title": "Học viện Khoa học và Công nghệ trao bằng cho 59 tân tiến sĩ và 38 tân thạc sĩ - Báo VietNamNet",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRm8tT2ZFclJvRXA0WmtuVjJyaWh4TFNqZnBSd1Y4eFJweGxRdlM4a3JmZjhrcFhUTndxUG9yMjFtSGFNRXdPRlJaOXpHbHNCekhfU1ozbGM2TmZ2SE1ha2ZGVi1rZl9rNTdKNm5oSG9xS3dtaGp2anBFREhrMTdUMWJXaEhMMlM5Y1hMcWFUSE1XU2JVY0p1MndycDRoUTlMLVRFTWxTcmtXRTF1a3BINS1R?oc=5",
-      "source": "Báo VietNamNet",
-      "published": "2026-11-19T11:46:00+00:00",
-      "summary": "Học viện Khoa học và Công nghệ trao bằng cho 59 tân tiến sĩ và 38 tân thạc sĩ Báo VietNamNet",
-      "topic": "science"
-    },
-    {
-      "id": "97e786b9bb2309811ee9",
-      "title": "Tuần lễ Khoa học Công nghệ VinFuture 2026: Tìm lời giải phát triển kinh tế biển từ AI và công nghệ - Báo Đại biểu Nhân dân",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPanhIN2N4NXRkY184eFY3a3RrMUhlX1FaazVjNmx1Uy1oQU53NzhRYlNqSmRRTXktd3dWNzJnaUFtbkZwOXJRSy1kV0VlTzVNT2o0WXQ2alQ1U1dWaFZLMjdqMzEtMmd0cWdmdFZWbm9LeDd4QklHMzBsQVBWQ3RCZmF3S0JxMVdQM0pNMlhkWUkxOUZaNVhSM0JRUkFpcEZQeFhRY3FNdFpWcndoX2x4bFZWNFdrS0JGNGxVcUR6eVZuemNhNGZ5b3IwZC1BcmpYNThj?oc=5",
-      "source": "Báo Đại biểu Nhân dân",
-      "published": "2026-11-19T11:44:01+00:00",
-      "summary": "Tuần lễ Khoa học Công nghệ VinFuture 2026: Tìm lời giải phát triển kinh tế biển từ AI và công nghệ Báo Đại biểu Nhân dân",
-      "topic": "science"
-    },
-    {
-      "id": "1eddb9005d18411e4b25",
-      "title": "Tiềm năng AI hỗ trợ doanh nghiệp xuất khẩu nhận định giá - Báo Dân trí",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkg0NmRpdlotbXQ1UjdPbV80VGZnSzVjZkVKend3ckNZbzlzRmxpYTFxanRGc0FUcHlTWVB6ZkNOeFdUWGprd2d6OWdsQWpPR0NUYWxxbHNTdHo5OGRJOHRwR0FpcDZfdzdWclZmNkJfRzluMTVLajgyQ25VRFYyT1BXcEF0SVR4QjJObDkzV0UxWTlxeC1OdElHNnVSZEZEMmI4WkVpd2c3VmlsRXc?oc=5",
-      "source": "Báo Dân trí",
-      "published": "2026-11-19T11:40:23+00:00",
-      "summary": "Tiềm năng AI hỗ trợ doanh nghiệp xuất khẩu nhận định giá Báo Dân trí",
-      "topic": "ai"
-    },
-    {
-      "id": "59e39ab9389ecb60f695",
-      "title": "Làm chủ cuộc đua thương hiệu khi AI tham gia định hướng người tiêu dùng - VTV.vn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkFxdEJOSS0zLXIyNkg1bHRMS0hPeHZXcHBJT1ROMkZVVGJLMlhDNFlEOTlmandkdGQzSS00N0RjZXpJX1FFdktJeU0tV2lXN2dnU2otVmFDOG5ZWW1odkV5OUQwS0VWLTNUcXRIb1JoQTNSM0lCZkF2TmhFZTRybHU4U0Jnc3M3VWdZbU9rTE4yenQtQkhSTWlyTTV6QlRaY3JDQlZ2QVh0RnlwWVE?oc=5",
-      "source": "VTV.vn",
-      "published": "2026-11-19T11:23:00+00:00",
-      "summary": "Làm chủ cuộc đua thương hiệu khi AI tham gia định hướng người tiêu dùng VTV.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "f23bd37e39513282031e",
-      "title": "Hơn 1.200 đại biểu từ 50 quốc gia sẽ dự hội nghị địa kỹ thuật tại Hà Nội - dangcongsan.vn",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT3BhODhZVWpvNkJMa1BJWUpwdlYxcHowMjVqNlJqdUE0WEtHQXZ4b24tUlFCeEpBMDdIVHR3Ul95MmhhbndmN0Jvdy16LTVVb0VndXVvV1JnN2V2bFNaYVpEUTFEdkl3QVZvLUUwWW85X2hQaDRHa2hNNG1WLWlUeURtRTBzRWdUSFdraElLMzdyRnRGcFFfSHFnVlMybUd5QzNwclJncEtNdjRadVE4MXFWVTN5RE9pMnJpVUJJaWxtR01BbXVuMTJ4S3A?oc=5",
-      "source": "dangcongsan.vn",
-      "published": "2026-11-19T11:20:37+00:00",
-      "summary": "Hơn 1.200 đại biểu từ 50 quốc gia sẽ dự hội nghị địa kỹ thuật tại Hà Nội dangcongsan.vn",
-      "topic": "science"
-    },
-    {
-      "id": "0c90468d98bcd81094bb",
-      "title": "Ban Chính sách, Chiến lược Trung ương chúc mừng Viện Hàn lâm Khoa học xã hội Việt Nam nhân Ngày Nhà giáo Việt Nam 20/11 - Báo Nhân Dân điện tử",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNlYyS2J0Nm5BQ2Z1cF91emtWeFROcm5IVWdiM3R0NFhMRktqMXdaU2hfZEJraVBoazNQZXAyM2tMOTRPdmtTUV9pLTc1dEFzNV8yNjJxY2R4bzM5ZTZ3RENVZXVIYmU1Y2hiV3V1eHlvRTlxT1FhV2ZyaGN6Tjl6QkloUVdiNWY5NXR3Y1dyaVphR1FScUNObDFSejlfeV83c05ybG5DTFFncTlNMHFHUE81b0JFTk1OckRnWEpmVXRTcnV6NnAyN3U0bHp5OGhfMk5COEtydlJaNDBwbDk1QWF1YmlsMl9f?oc=5",
-      "source": "Báo Nhân Dân điện tử",
-      "published": "2026-11-19T11:19:11+00:00",
-      "summary": "Ban Chính sách, Chiến lược Trung ương chúc mừng Viện Hàn lâm Khoa học xã hội Việt Nam nhân Ngày Nhà giáo Việt Nam 20/11 Báo Nhân Dân điện tử",
-      "topic": "science"
-    },
-    {
-      "id": "bcb229517577e676f45e",
-      "title": "Trí tuệ nhân tạo đang thay đổi phương thức sản xuất, quản trị doanh nghiệp - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNndmOEcxNXVZYy1yMEFFSHlQRFUxZVVoY0QzOXBTaGp0MTMxRUVhejNranlRNUpVdVZLbW5VaFZSN1FJZ2ZIVldHc09xTlpKc2ZLcUI0WHdHYUV0U3BxeUFyRDFDRlhVMzMwWnY3Y1pYQVh4eXVVTjNHTHdIUGdmVzcwd1NUZkZMT1NhOGlYVkZ0U1prd0I5LV9STXE?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-19T11:18:12+00:00",
-      "summary": "Trí tuệ nhân tạo đang thay đổi phương thức sản xuất, quản trị doanh nghiệp Vietnam.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "d1c24ba0f2dc73686299",
-      "title": "Mở rộng không gian ứng dụng AI trong lĩnh vực tài chính - Thời Báo Ngân Hàng",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaG1aaWhpS3NtY1ZsRHh6SVRvOUJzV284Y0lmdlN0UG55eTc0R0ljR3RnOWwtWlJ4ZGR5Wkl2YzlvckxzaFJyXzNBc0xtYUlEbDJpenVXR3gwQXh6RHN5eGhua0Y1eFJlTHdJVE9tZUc1ai1SNTJ4VWRYRGdVdlZWWEY3UXdLaUVKREZacWFwWTN5UUd4cWROYzNB?oc=5",
-      "source": "Thời Báo Ngân Hàng",
-      "published": "2026-11-19T11:12:21+00:00",
-      "summary": "Mở rộng không gian ứng dụng AI trong lĩnh vực tài chính Thời Báo Ngân Hàng",
-      "topic": "ai"
-    },
-    {
-      "id": "e55565d07a8e526baa67",
-      "title": "Viettel giữ vững ngôi đầu nơi làm việc tốt nhất ngành công nghệ - viễn thông - Báo VietNamNet",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWGdXVGZiSmpNazRSR3M1UWhPcjV5RUNpZ21OSzhhNFdPOWRBaHotX2xBQUZkZm5PSW16ZkZkU0gyLVZ2VVRCRjJic0lYOXhsNlBsRkxhN2FadWc4SzVEZVZ0Nnd5dzFMcUhEQkRhanNGUGFOYXc0c1NoaXM5X29qYW5ldlNzbFhhRlFTdWJKMnc1MGM4WWJ2el9mb19nRElLZ0J5QjFNemJrd3hjSGc?oc=5",
-      "source": "Báo VietNamNet",
-      "published": "2026-11-19T11:00:00+00:00",
-      "summary": "Viettel giữ vững ngôi đầu nơi làm việc tốt nhất ngành công nghệ - viễn thông Báo VietNamNet",
-      "topic": "ai"
-    },
-    {
-      "id": "d5e5a3a647cce9e4b1e5",
-      "title": "Năng lượng tái tạo, công nghệ: Nền tảng cho trung tâm công nghiệp - Báo Nông nghiệp và Môi trường",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTkR6MTJ1b09IZ1VKZjdVdk1rT0VvUGs0VU1IVmJvMmtMbEpMYlJMeUE2ajdGOHp6MkNzcXcxYmVCOHZnSThRQXRNRHVuemJaS0RwVlhKVU9mbUtVd00tV05rM1VSUGFWX3NhUjNQOTc3TzhGV2RKUjljWmd0NE9WeFdWWTNRTVpOSkFKRGFzU2stdnZhQXJERHMwNDNEVHBQZldxTC1ZdWpVMFRaY0sxNXZsZ1puallTMDBB?oc=5",
-      "source": "Báo Nông nghiệp và Môi trường",
-      "published": "2026-11-19T10:54:53+00:00",
-      "summary": "Năng lượng tái tạo, công nghệ: Nền tảng cho trung tâm công nghiệp Báo Nông nghiệp và Môi trường",
-      "topic": "science"
-    },
-    {
-      "id": "bd9fdcdb1e75036a4b54",
-      "title": "Chiếc điện thoại mở lối sinh kế số để thoát nghèo ở bản vùng cao - Báo Pháp Luật Việt Nam",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1F1cG8yWElGa0xfWVU5dEJOaFVCWEcxREltWmtJQmtsaWRIYkd1eHFtNjllUXhpQl9UTExULWJQb0JsbFlCQkhVNWh5bnZ6Z2tYTk5xYTNtNklvOEtLbTg4LUVpVU1ZV0ZkSFRraHdQM3MteXpxNUlWc3l5TDRyeGdDZGpJTkVaSXN3T3NLZDhCQlp6X3ln?oc=5",
-      "source": "Báo Pháp Luật Việt Nam",
-      "published": "2026-11-19T10:49:10+00:00",
-      "summary": "Chiếc điện thoại mở lối sinh kế số để thoát nghèo ở bản vùng cao Báo Pháp Luật Việt Nam",
-      "topic": "science"
-    },
-    {
-      "id": "dfbcba7110fa0b8dd0b4",
-      "title": "Đà Nẵng giải ngân gần 1.332 tỷ đồng cho khoa học, công nghệ và chuyển đổi số - VIETTIMES",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1RmUjBrc1FqNmZWSGk1bFpGSnI1VDZERHFpdFRlelEzakRqTHFBa3lpY284S2N3aGZmbXpwM3RpVnlTTnJ3Q3VhWDYzcUNXeG1jNVNOYzVrcW1YaFl2TXBPeVFXN01Ha2gwRmVoNFdLcTZKSkY1aW5LVzJINjJiZUVEM1MzdmtLenJRZUFzRlZDbVpfVTZNOWZOSlQtSDlCZExZQ01Pb3U0VEVnY2pPMw?oc=5",
-      "source": "VIETTIMES",
-      "published": "2026-11-19T10:42:02+00:00",
-      "summary": "Đà Nẵng giải ngân gần 1.332 tỷ đồng cho khoa học, công nghệ và chuyển đổi số VIETTIMES",
-      "topic": "science"
-    },
-    {
-      "id": "3836e5cfedceaff4fe23",
-      "title": "BSR kiến tạo tương lai bằng khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số - Nhadautu.vn",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVd3anQwM3luUEEyTE1QS3NSSjVMZjBoOUt4VVpFMzMtbVdWQ0ZlRF9kcEdrWWpRYjdrZlBmbU5jRHBlUnN6Y0JiZ2VJbUF4Z0d2U1R3ZlRGNEpSYlV4MHNadHduV2JuclN2SlZMel9HU2xKcmlvS1Y1cmQzcUo1SjFpd1p4MVV3eGVIeldaak1tYXE2eWtmejVQcWxYb0lERXpvSUFIQk90UEFLT1FVWmVEYw?oc=5",
-      "source": "Nhadautu.vn",
-      "published": "2026-11-19T10:40:28+00:00",
-      "summary": "BSR kiến tạo tương lai bằng khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số Nhadautu.vn",
-      "topic": "science"
-    },
-    {
-      "id": "d73e03167e8ec4d0f4eb",
-      "title": "Làm chủ AI, nâng giá trị tài sản trí tuệ văn hóa Việt Nam - chinhsachcuocsong.vnanet.vn",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUJTSHkxbklSNHJqRG45U3ZTOWpEU3JSVm1qVExFRVFNZ0JHS3ZURU5TU1Z1bURVcmh6UWxXcVhvTXdvYlpxd2ExUEFhVUVCNnRMbHFMUE1STkxtYjJUcUo3UGZoQVFqYTFHT0dldGxsNlRNTHhjcUk5MWE3b2JnRFBYZE5nVjdyS3V5d1dtOTdqOUhhMF9HVkhIQm9Kb3lsQzdkU0xGUQ?oc=5",
-      "source": "chinhsachcuocsong.vnanet.vn",
-      "published": "2026-11-19T10:33:00+00:00",
-      "summary": "Làm chủ AI, nâng giá trị tài sản trí tuệ văn hóa Việt Nam chinhsachcuocsong.vnanet.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "63dd330596c50739890f",
-      "title": "Trí tuệ nhân tạo đang thay đổi phương thức sản xuất, quản trị doanh nghiệp - Báo Tin tức và Dân tộc - TTXVN",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3pZVEJuMlJndGxMVWFfV0ozeFdwTlIwbmZ4SThvREt0elZBRlRKQkF3Qkhad3pUSUxzUHNJb0NqUDJ2V1p3M3VLNnBaTDRDUTNOc0xvbHFmTkh6YkNrdV9OQmViaVpUSFlsd1BKMzEwVlJaa0VGc3BzRnhKZWwtaklsQ095emRWVzZHT1Q0aW9YOUFQbEJoeFZILWhCOXg2VWFEc2VWLW8xZzl1Q3p4NA?oc=5",
-      "source": "Báo Tin tức và Dân tộc - TTXVN",
-      "published": "2026-11-19T10:30:29+00:00",
-      "summary": "Trí tuệ nhân tạo đang thay đổi phương thức sản xuất, quản trị doanh nghiệp Báo Tin tức và Dân tộc - TTXVN",
-      "topic": "ai"
-    },
-    {
-      "id": "4a72b4f399db53aede47",
-      "title": "VNPT và Qualcomm ra mắt VNPT AI Gateway Wi-Fi 8 - Thanh Niên",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2RVSXgyNGFHaGE2WWhaM1Y0SUl6Vm9MNHJfUTZ4cTY4UXQ4WFdNQU5MNXc5V3RoSGJJbFpEVjZMUUhTN3hmclNtUG4yY3JaT1E0SXlKT05IWXNmd015ek9PSTBUcDJYREUtaUdqb2szbmd3VHBaOS0zRzlDUm9xY2JXbXRyVC1QYXJJeTVob1NfODVwc3c?oc=5",
-      "source": "Thanh Niên",
-      "published": "2026-11-19T10:28:00+00:00",
-      "summary": "VNPT và Qualcomm ra mắt VNPT AI Gateway Wi-Fi 8 Thanh Niên",
-      "topic": "ai"
-    },
-    {
-      "id": "0966d789f3ba4ba7c30e",
-      "title": "Người Mỹ lo ngại về những tác động của Trí tuệ nhân tạo - Báo Văn Hóa",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaW9rMWZMWUFoc0ViN1RWLVhMYXk2OS1zSUVpbUhtUk1HV2o4Ymxzd1BFeWNRUG1uZnZ4VmJ2TjdGdHRsRHRPcmR4TnQ3bmg1VHR6a2NSLUY2QUlYTWNiYU9XWGFZaHduTkowdV9RTUhMNTBHcXpXRl9LVmhmbHc3dDQ4cHhYcUZk?oc=5",
-      "source": "Báo Văn Hóa",
-      "published": "2026-11-19T10:24:53+00:00",
-      "summary": "Người Mỹ lo ngại về những tác động của Trí tuệ nhân tạo Báo Văn Hóa",
-      "topic": "ai"
-    },
-    {
-      "id": "8dca54474279b9b652f5",
-      "title": "Chủ tịch Vietnam Airlines: Kết nối Việt - Trung mở rộng giao thương APEC - Tạp chí Kinh tế - Tài chính Online",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUzc1YV9Ha2dnT3k0TWtXT0xKR2ZfU2RNNEV3Nms0M3N3RFpud2hXdnhpTGtnR0ZEalZQMU16dUp0aGJrby13MjFTZmtJZzE0VS1od2ZWVlNpYUZFVVQySHBvUmVqWFJwVTAwS2JmaUcwLV9nUDRWdkVTUEliWFN6YnNqTzNBQU9Wb3FxWC1FZmVTS0dRb0t2bVBuVWY4T3hoV093TUhjLTVWWjAwWE8tYnFKOA?oc=5",
-      "source": "Tạp chí Kinh tế - Tài chính Online",
-      "published": "2026-11-19T10:17:08+00:00",
-      "summary": "Chủ tịch Vietnam Airlines: Kết nối Việt - Trung mở rộng giao thương APEC Tạp chí Kinh tế - Tài chính Online",
-      "topic": "ai"
-    },
-    {
-      "id": "6989a85ac257e0ed6310",
-      "title": "Kết nối di sản với công nghệ, lan tỏa giá trị văn hóa đất Tổ - Báo Pháp Luật Việt Nam",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHZSV0wtMFh1UUZYQWkzcUxMc0dpV09kYS04Zjc4S041Q2VvZ1FmWmdjWmdSbFhHUVFQMEk2U3IyX0Vzb2pSUXRkMFlSVEV1eTNZOTNqUFlGanNXR09QTzJEeklKRGloWVFVQU9VNklpSG1ZUmhqeFJLV1NKRzNhb2NnVWJpeG9ualZ1aV9ENUk?oc=5",
-      "source": "Báo Pháp Luật Việt Nam",
-      "published": "2026-11-19T10:13:32+00:00",
-      "summary": "Kết nối di sản với công nghệ, lan tỏa giá trị văn hóa đất Tổ Báo Pháp Luật Việt Nam",
-      "topic": "science"
-    },
-    {
-      "id": "0c82ab51568e0b7244e1",
-      "title": "The Academy of Science and Technology will award Master's and Doctoral degrees in 2026. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSVVvQVNzaUNyNHlnWDhJVkw5c093NzdqeUZjTnh4X3ZaVGs1WEhUUGV3VlZDZDBhblg0djRWNDhzc282ajNibmZRNGtzdXJMYVZad3p2NlRXRHVQRTA2MGtCaW9WWUlmdWV2ejE0d2FmTkw3RXgxYjRkcGhJdm1NaXZCTVdycGVCUXd6RHFITGl6S0N3MGNUMXNR?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-19T10:11:47+00:00",
-      "summary": "The Academy of Science and Technology will award Master's and Doctoral degrees in 2026. Vietnam.vn",
-      "topic": "science"
-    },
-    {
-      "id": "be5014b381c6667e6b82",
-      "title": "Google đạt thỏa thuận mua dữ liệu nội bộ để huấn luyện AI - Báo Tin tức và Dân tộc - TTXVN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFViT2d1bFNObUFYV2UzalR4LUJWY09JaGU5b3BETWJqRmw4QWc3b0ZudHZMbkRJLXEtX0lrZTFJY2M1ekoyQkhWOFhtX21lV1hNYU1XOFp0Z2k1UFpsWmQ2b2xYR1Y1c2RCS1ZtSEs1NnZ6dlBha0RVMHNTTkRuR0tZQkxVT1VsM3JGM3FVcTZzRGo4S1FKa29YNA?oc=5",
-      "source": "Báo Tin tức và Dân tộc - TTXVN",
-      "published": "2026-11-19T09:56:21+00:00",
-      "summary": "Google đạt thỏa thuận mua dữ liệu nội bộ để huấn luyện AI Báo Tin tức và Dân tộc - TTXVN",
-      "topic": "ai"
-    },
-    {
-      "id": "dbbaee5da619c017b5e8",
-      "title": "AI không thay thế được vai trò truyền cảm hứng của người thầy - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUZGTnpuazZwUmdXZ2prVlM0ZHpzdExocmQ3b0VPUVNRVUlUZjBZTkozb1RSSnpPZXpKaGdsZVkwOWxzcEZxQTdPQkxjN3drSzBXQVIyajNhT2lsRVdhRHJheGZ3N1VySHhxRUQwcXFtVzhJdXNSamFJZ2ZqeEpxdW5IRl84Y1N1eXRLbk5wTU1paF9aWWN1Q053WXE2OU9tTjRR?oc=5",
-      "source": "Laodong.vn",
-      "published": "2026-11-19T09:55:11+00:00",
-      "summary": "AI không thay thế được vai trò truyền cảm hứng của người thầy Laodong.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "e91bc86c8d9befef75d3",
-      "title": "Bảo vệ người tiêu dùng trước những thay đổi từ trí tuệ nhân tạo - Sức Khỏe Cộng Đồng",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0xLSHFaRjNaY0pjZkpkMVI5TXo0RmQ5b2hTbTkyY18tOHQ0bUprRG1vQ1lYdUZlTXJKT09kQXZfTzZNS0NvRjMxdzFuc0VTLVRONGt2XzQwN0ZFVnNRSEFUTVJHdUxqYXlGWkY2X2phcVU2V3BSUDFoV2ktR1FONmxoaXJlVmZUY3pGMDMtV1VnODdLTWVyZ1pJS1M?oc=5",
-      "source": "Sức Khỏe Cộng Đồng",
-      "published": "2026-11-19T09:45:00+00:00",
-      "summary": "Bảo vệ người tiêu dùng trước những thay đổi từ trí tuệ nhân tạo Sức Khỏe Cộng Đồng",
-      "topic": "ai"
-    },
-    {
-      "id": "3bf448a087fd153e33ca",
-      "title": "Học sinh dùng AI viết luận, đại học dùng AI tuyển sinh: Bài toán cho Việt Nam - Báo Tin tức và Dân tộc - TTXVN",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmdsaThzMGg0WnZkYmo5Yms2VWc3eXZLVWRxcGpzbUIxQlpwb0p5OVhpREFENG9WRlNFWklRV1FJX1VXZ25OTGRQbHllRkhoYjlhemJfTVBxaXZuRTV4VzRFRTJTQ1VfaWVQYWFqeFo4VVBHQWh0VkktSnp2bHU5TG1DRVgzTFkwR3M5aGJRcjQ4RkxUMW9nbHRCVU41TnlKdnFVMEFtcHcyZldvNXRZVXo1Yw?oc=5",
-      "source": "Báo Tin tức và Dân tộc - TTXVN",
-      "published": "2026-11-19T09:44:41+00:00",
-      "summary": "Học sinh dùng AI viết luận, đại học dùng AI tuyển sinh: Bài toán cho Việt Nam Báo Tin tức và Dân tộc - TTXVN",
-      "topic": "ai"
-    },
-    {
-      "id": "7534ef3989db3b3e1f7d",
-      "title": "Giáo sư, Tiến sĩ Nguyễn Văn Nội: Công nghệ càng tiến xa, giá trị nhân văn của người thầy càng trở nên thiêng liêng - Báo Nhân Dân điện tử",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZnRCY0ZtSEFqLTVwSldQZXhkTDNCWGIwOVdVMDFDbUFnRWhremsxZTlPZ2FvSDl0Z0J2b1ZVOGtWZlJRcVo3WTc4LWZjcTdNd21UdlRtQlpuQkdFYUN0VHJ2VXFRRU42UHk3dmVtN0hTdnFHX0lkN3VFa1FEaG1YOGR0UkxHYmVRYnM1ZUhJOVhHQkJab19IN05aeHRGRnFxZW56Vkx3YlRkM1lCb2VkUTFkay1DLW1ocUNFVUxmRHJ6dldrWkZubzZnQi1iblFTd21kQUxUMDUtZUNmUjJkTA?oc=5",
-      "source": "Báo Nhân Dân điện tử",
-      "published": "2026-11-19T09:42:28+00:00",
-      "summary": "Giáo sư, Tiến sĩ Nguyễn Văn Nội: Công nghệ càng tiến xa, giá trị nhân văn của người thầy càng trở nên thiêng liêng Báo Nhân Dân điện tử",
-      "topic": "ai"
-    },
-    {
-      "id": "4c0d4dd0caff7dc9c2f5",
-      "title": "Lãnh đạo Hà Nội, TPHCM kể ‘nỗi đau’ khi đưa AI vào công vụ - Báo VietNamNet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFREMXdUb3ByQmtDSXJabmR2a1BpdG04cmZsMU1GcmJ5QTN3VENBaWc4ZG5GeUszT25tNlZFUzJKNDFyYTE0U2Nid3dHdWRScU45Sld2RE1XSDNKaENscXR2UzBvd3pzX2IwenFibUNhNkJGY1BybUM1ZkktNjI0Rjc3WXotTXdvQXlVN0hTVUtCcUFz?oc=5",
-      "source": "Báo VietNamNet",
-      "published": "2026-11-19T09:39:00+00:00",
-      "summary": "Lãnh đạo Hà Nội, TPHCM kể ‘nỗi đau’ khi đưa AI vào công vụ Báo VietNamNet",
-      "topic": "ai"
-    },
-    {
-      "id": "f64bcc58e5bc03c0a292",
-      "title": "VNPT ra mắt modem Wi-Fi 8 tích hợp AI - VnExpress",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rcjJmbFRNRWV5a05JRElGaDNieEI4LXF0Y0w2TE13ZENhNnh6bUFaMUhudG5tOEd3QlptdWpieDUtd3d1Sk4yZy1XTEhJZVE5RTRpTEd6N1g1bHUwWDhyUkFsN3A2NWh4NlNzelFFdEtWMXVkdVFpRGIwVDk?oc=5",
-      "source": "VnExpress",
-      "published": "2026-11-19T09:33:33+00:00",
-      "summary": "VNPT ra mắt modem Wi-Fi 8 tích hợp AI VnExpress",
-      "topic": "ai"
-    },
-    {
-      "id": "e66bbd8654a123ba5bc7",
-      "title": "VinFuture 2026 kết nối trí tuệ toàn cầu vì tương lai đại dương bền vững - baochinhphu.vn",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3V6TTAzQWJMTGxfWW9HWUtjOG82bVRaUkJLZ0NHN21rVENCekI3eVEwTmk5WC1fUnBHeHE3bmhSc0twQ092eDEyVkNZLVZTaWY0MmpNMEhEX2ljWEUzaEFjOWRCRmV1LThPV1NvX0Uwek80V3V5MHprSFk3VmhYRG9TLVVTeWRmb3pLWVhjbkJFWDBvcHBmc1VWLVlUWHFPM3c?oc=5",
-      "source": "baochinhphu.vn",
-      "published": "2026-11-19T09:33:00+00:00",
-      "summary": "VinFuture 2026 kết nối trí tuệ toàn cầu vì tương lai đại dương bền vững baochinhphu.vn",
-      "topic": "science"
-    },
-    {
-      "id": "0d9d9084d961979f12e9",
-      "title": "Khoảng 11,5 triệu việc làm tại Việt Nam có thể chịu tác động của AI - Báo Vĩnh Long",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORERJdGF6Y2EyTFhoVjVydjlNTW5JOWdEdUkwalduT1phdVNhc3U5a0FTY1lkMGc1bWQ3QzQ0NnJyZ0NZQjA3VTkwZ2IycFBtZFNXaXlqd0lGRkg0cGhnMjRzbnZWVjMwRkdLN0p5ajhOd0NuUHhZbXRVTU5WQXJZcGdfWUo0N1J2U0RKNXNhQXdZUEk2SXl3ZmY2R1ZoQlBTQm5wX2NIcEF3V2lYVjlvRFdGZmZoajlqc0Q3OV9od1QtTGZwdC1N?oc=5",
-      "source": "Báo Vĩnh Long",
-      "published": "2026-11-19T09:31:11+00:00",
-      "summary": "Khoảng 11,5 triệu việc làm tại Việt Nam có thể chịu tác động của AI Báo Vĩnh Long",
-      "topic": "ai"
-    },
-    {
-      "id": "a2e9c406dfd400327b57",
-      "title": "Đến năm 2030, Hà Tĩnh phấn đấu có ít nhất 35 doanh nghiệp khoa học, công nghệ và đổi mới sáng tạo - Cổng thông tin điện tử tỉnh Hà Tĩnh",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzFzV1YzZWt5eTFqN05WcGxWZVBtZzk5SzAySzdEdU5IRWFMWm5fRXlDeHJ1Ujh0NTZnY3pEbFNFbmlKbjhjQ1g1c2VTdXJOLW5ReXJCaE80YmdHM2lJZXl0dURTdFE0ZTlteWVEVElfal8xa1hzM0xpMXdCZzRRN0M1MGtSY3d3UEdHckh4RzZHRGQ4WGNZT0dxc0MwLU1NQVhZQVg2aVpZTGs1c3JVWjhYU0NCb0l3N0NtWFh3b09sM0p6dnZ4cA?oc=5",
-      "source": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
-      "published": "2026-11-19T09:29:21+00:00",
-      "summary": "Đến năm 2030, Hà Tĩnh phấn đấu có ít nhất 35 doanh nghiệp khoa học, công nghệ và đổi mới sáng tạo Cổng thông tin điện tử tỉnh Hà Tĩnh",
-      "topic": "science"
-    },
-    {
-      "id": "3bf6ae644911013edbca",
-      "title": "Động lực thúc đẩy sản xuất xanh và phát triển bền vững - Báo Nhân Dân điện tử",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVllBbC1rU1NTQ2JOaVVtTkFaNDNtbW1PalRXQUJmYXNMYm5zeEhzWUdFMHgyaFM0TjdUTjhWZWY3WmVvY0d6cjZrOGlfZGdpajAtYTFfOEQ1bU1fLXpQYzBrRXZSNnV5bnlKdXM2MzBrQkgxcjJuSW14dlJ0OHJVbnFXaEJCYjdrZ2JHWmxpUVZCdWY4?oc=5",
-      "source": "Báo Nhân Dân điện tử",
-      "published": "2026-11-19T09:27:37+00:00",
-      "summary": "Động lực thúc đẩy sản xuất xanh và phát triển bền vững Báo Nhân Dân điện tử",
-      "topic": "science"
-    },
-    {
-      "id": "3de28105243dbf701cbe",
-      "title": "VNPT AI Gateway Wi-Fi 8 Launched - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FZjU2WVZwOEpMQnJlZ01zRTd4cEVxbzdsbVZOUWVGVUJWSWZiVXpDV1JFYVc4b0dqZm1QUG5BSllmeEJjdTJhaFZSNlVTd3FpTEVVV1dtQTM5UERoMk1tSWt6TkE5bzg?oc=5",
-      "source": "Vietnam.vn",
-      "published": "2026-11-19T09:27:30+00:00",
-      "summary": "VNPT AI Gateway Wi-Fi 8 Launched Vietnam.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "d29cffed3956aebd66f8",
-      "title": "Tìm hướng đi riêng cho công nghiệp bán dẫn Việt Nam - chinhsachcuocsong.vnanet.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXQxdzBwZXB3MC02Q2ptbU42ZC03UllUaG9YY1FoLWpaTkFQOTU1cU9fb0pOcVA5YVlQQl9PTkpndlJxdWFXY0tnblFnc2lOUVRBeFhnSzYtUjFyVHdpVml0Nm53d2Y3SFVld3hmRWVLXzc5RVl4LVRvcWd3aXlEakJEZk1PV1BYVXFWWDlBRUt3ZzFvbm5udGpndWtCZ3J2?oc=5",
-      "source": "chinhsachcuocsong.vnanet.vn",
-      "published": "2026-11-19T09:20:00+00:00",
-      "summary": "Tìm hướng đi riêng cho công nghiệp bán dẫn Việt Nam chinhsachcuocsong.vnanet.vn",
-      "topic": "ai"
-    },
-    {
-      "id": "f4f709c23d13e116a86f",
-      "title": "Giữ giá trị của nghề giáo trong thời đại AI - Báo Đại Đoàn Kết",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6ekpIUmxvZEg2b2QtZkFyVV9NWV9LSWF2R2ZsOXJQZXM4b3hwWFJCeHdxQmlsQXpQbkVZYUpycUVmWkcwSXZMT0hkR19VRWl4V2R2cjd2aHo1LXczZm1VUWpQbmVHUWhBMGFNREtIWVp5V0gtQ2U5eUZB?oc=5",
-      "source": "Báo Đại Đoàn Kết",
-      "published": "2026-11-19T09:10:00+00:00",
-      "summary": "Giữ giá trị của nghề giáo trong thời đại AI Báo Đại Đoàn Kết",
-      "topic": "ai"
-    },
-    {
-      "id": "9788e86467ed2eb84776",
-      "title": "Đưa AI thành động lực tăng trưởng mới của kinh tế Việt Nam - Tạp chí Kinh tế - Tài chính Online",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3VIc1l4aGVRNGVncG8yanFTUENzQnpuQk1qWkdRMFFkWUxHVWRGSW1GVF9CMkpBeXlTLXpkbGcyd2JNNm1XcmRzbVFJRDFuemtHMmpzd181SWFsWXJyUHBNblZMbnhnOWN3X3Mya1g1eHhDRzJGTktYMmQ4SF9qX1hmT3pJdUNiR29teVNOYUZab3ZzN2tzNzA3dXVqTjNJTkxQUA?oc=5",
-      "source": "Tạp chí Kinh tế - Tài chính Online",
-      "published": "2026-11-19T09:08:36+00:00",
-      "summary": "Đưa AI thành động lực tăng trưởng mới của kinh tế Việt Nam Tạp chí Kinh tế - Tài chính Online",
-      "topic": "ai"
-    },
-    {
-      "id": "3617e7616ff115a858ff",
-      "title": "Tiến sĩ AI từ Ý trở về Việt Nam, chọn bài toán khó của ngành chăn nuôi để khởi nghiệp - VnEconomy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUElJZ1B5TzIxc0dCNkN0blVIeUFDV0ZSWk40OTNScHg2U1BoTGRlMXNfd2kyTUc4Z19HcHBxQnZhYWZZVzg2S2lRcUtoY1JZY3V4cmlrZ1dZanV1dHFQU1ROdWZFNkREd3RUc1g2WVplRjZLb2p5aHlfRHdzSFdKdGhKazFLWnlxTVFFdnI2SDBXRG9fX2FLV2pId1B2WDFvWU1BYjBhUklCTEMwdnp1aGxkel9XbjlUSi1UQ2J3?oc=5",
-      "source": "VnEconomy",
-      "published": "2026-11-19T09:00:32+00:00",
-      "summary": "Tiến sĩ AI từ Ý trở về Việt Nam, chọn bài toán khó của ngành chăn nuôi để khởi nghiệp VnEconomy",
-      "topic": "ai"
-    },
-    {
-      "id": "aac56a749e6f1c839d0d",
-      "title": "Hàng loạt sự cố công nghệ làm gia tăng lo ngại về an toàn hạ tầng số - VnEconomy",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzlaWlJCZzhuSTVSY3JmSEJkNlU3MGRzUlRiX1ZXTHBmMFpNSUQydDN3V1FjaG5waEd4Y1BFWlVNSkNLaG9CbklwUmtBNzdyXzZacWc4Q3hPNENiREJuamY2Zlpkc01BY0dOSmxNZGtES2EweVpYcDlPUFNmWld6SThCWnQ1cDdkQjE4Zms1S3dFdmszNE5TclZiYVdNN1VpMGxmT29yUV8?oc=5",
-      "source": "VnEconomy",
-      "published": "2026-11-19T09:00:32+00:00",
-      "summary": "Hàng loạt sự cố công nghệ làm gia tăng lo ngại về an toàn hạ tầng số VnEconomy",
-      "topic": "security"
-    },
-    {
-      "id": "35daf78674910e5b4eff",
-      "title": "Ứng dụng khoa học, công nghệ AI vào bài toán phát triển đại dương bền vững - VnEconomy",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2Jrd2UzSm5pZEY5ZzVFbm9HWm5nZ1ExRUhzdVNIX05ER19fOHprVkJlbF9GVVZ0a21DNVlnTXhjNHhrclItdjVmR1hNVzlVTXdFS3daYWtGZDVfNXFmMVBvamR6M0dXWlkwVUpyRkZfa1d0OG9aRk4tYW5XQUp6ZlhRUlBnY0FST0JNUW0xck0wMWJ1VFJ6UU5mV2M2cGw2Z2ZrNURud1g4WDhlaDBR?oc=5",
-      "source": "VnEconomy",
-      "published": "2026-11-19T09:00:32+00:00",
-      "summary": "Ứng dụng khoa học, công nghệ AI vào bài toán phát triển đại dương bền vững VnEconomy",
-      "topic": "science"
-    },
-    {
-      "id": "592750fba2d15ed0019e",
-      "title": "Chủ tịch Ủy ban Trung ương MTTQ Việt Nam thăm nguyên Phó Chủ tịch nước Nguyễn Thị Bình - Laodong.vn",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWZxMWtkOGxfdXYwZVNhUGlzNkh2ZkNxVFgxR0xiUWxUeFNMMTdsQkdXT2NSOGo0WkpIRkozV2ZEVGs3RnZFbS1tSW5TRWhrc1prVTg0RmVkSS0xZTFSNVBvSEx2UTZDbE5kV1BoNDRXek9jZktsZDVVQXY4RXJLV1ItU0xnUlFpZVZBc2VaZlNRd0puSlpCVDRueGhfaTJDejhyRzhJaDA3STlGOGpCZXV0VE41eVBLSFdlVk1Ia2xCX2Z6?oc=5",
-      "source": "Laodong.vn",
-      "published": "2026-11-19T08:57:21+00:00",
-      "summary": "Chủ tịch Ủy ban Trung ương MTTQ Việt Nam thăm nguyên Phó Chủ tịch nước Nguyễn Thị Bình Laodong.vn",
-      "topic": "science"
-    },
-    {
-      "id": "de69f1e35a3bed15f905",
-      "title": "Viettel 10 năm liên tiếp dẫn đầu ngành công nghệ phần cứng, hạ tầng và viễn thông về môi trường làm việc - Báo Đại biểu Nhân dân",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeEgwYjBYNkloLVk3OVFsNEtacExDMVZQaVo5WHlPaHBreS1IV2NUb0Q4QVNrZVhtYWxrUFdmcXJ4Mjg2NmhPTHRiUUp1V1VOVHBSVkUyR0FwVkNIaXRSVjZTY1Z1MjF5QlVxX1dzdXpmN0xRRGNpZTF2aVc3R3ZNZGJCR05qakdCRUE4TXJrSjlXUmdIY1pqQTNpaXV3STNTLTJGV0tUWTdtNW1PcUxPSG80WDRaTWFOWGFUU0tyLWltRHNvQ3hHcG14Zl9rWVFuclN2STZ1SzAzaXc?oc=5",
-      "source": "Báo Đại biểu Nhân dân",
-      "published": "2026-11-19T08:50:01+00:00",
-      "summary": "Viettel 10 năm liên tiếp dẫn đầu ngành công nghệ phần cứng, hạ tầng và viễn thông về môi trường làm việc Báo Đại biểu Nhân dân",
-      "topic": "science"
-    },
-    {
-      "id": "dbde76503827d55c4c3b",
-      "title": "NSMO phát huy vai trò hạt nhân chính trị, đẩy mạnh phong trào sáng kiến và đổi mới sáng tạo của ngành công thương - Báo Nhân Dân điện tử",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdDRQNlMtYWlXODNVMl9sc2JsMWxZOGhMcjBmRGRIc0d1QmZGOXV6dHl2ZUM4TnRUdFhUQ3QxMzZrU2FPdWpWQ01MYkFYQnBBWkVqRzBLR3FBbDBDcEd5QVV3M2tKMS1XUDZuWjZfTmk2ZWpBeDJ6VktmbnJSOXBheEtXdDczRTU4Sk5uVHBqSndBUjVpTjhieWFOQjlYUnlfUE5KOGg1Nlc1ZUF5czBrUkE4UkNMX2YwM1E1V1VaZmp6LWZwTTdwZ0tveUdMSm5Idnk5NkNFNkExR2ttWDJGWjdn?oc=5",
-      "source": "Báo Nhân Dân điện tử",
-      "published": "2026-11-19T08:46:40+00:00",
-      "summary": "NSMO phát huy vai trò hạt nhân chính trị, đẩy mạnh phong trào sáng kiến và đổi mới sáng tạo của ngành công thương Báo Nhân Dân điện tử",
-      "topic": "science"
-    },
-    {
-      "id": "ed052a55cde14912aebc",
-      "title": "Toàn cảnh chuỗi sự kiện khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số ngành Xây dựng - Báo Xây dựng",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRjNJenA5djBxaDRaUDVIdWVmWFM4LXp4amQ2VWhTYS1VX055TjQ4amlnN3M0dFNFalBIWWN6SWZ5TnVJaVlQcUdHQ2tsUlprcFo1eGdGckxwd1FPdk5La0JRZERQbkFLbkpoTXJaNjhWQmlpYzBud1BhVk5sMGFfeG1pWlJpZkdrOXFKMGVlWFM5OGttTEJzOFE1dWowWUZGM01PMTk5aVpfZHFfWldJV2RHSFFSRmdLeTRnbFFnZ29iaDQ1bm9Ha3JjZVltdw?oc=5",
-      "source": "Báo Xây dựng",
-      "published": "2026-11-19T08:36:00+00:00",
-      "summary": "Toàn cảnh chuỗi sự kiện khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số ngành Xây dựng Báo Xây dựng",
-      "topic": "science"
-    },
-    {
-      "id": "9608a0ba211c500c298f",
-      "title": "Tài năng khoa học trẻ được vinh danh, đặt ra bài toán đầu tư cho nghiên cứu - Tạp chí Kinh tế - Tài chính Online",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTF6aVkyOEFmd2pjZU83ZFRxVkR1bmVabW13VXBza0hhaWVkSktZOVEyWUxBdFk3dHBBdDV4TkphajlhY3RCTHd4eGpRVnpEVFhEQkpwZ2FfdW9ZWjMxTmpITnNGVmNkQk5vd3ZvMGdQRXRXRkJZeHVXelNvT1NuYjFNVmx3SzF3ZVhKNk5MY2hOYmVqUmo4ZEVSUzZ3Y1Nnak93STRIZXB3Z1FjTUlEVDE2SmFfZWxBdGc?oc=5",
-      "source": "Tạp chí Kinh tế - Tài chính Online",
-      "published": "2026-11-19T08:29:46+00:00",
-      "summary": "Tài năng khoa học trẻ được vinh danh, đặt ra bài toán đầu tư cho nghiên cứu Tạp chí Kinh tế - Tài chính Online",
-      "topic": "science"
-    },
-    {
-      "id": "f7fd7065b67bf3ff20f6",
-      "title": "VNPT và Qualcomm ra mắt thiết bị AI Gateway Wi-Fi 8 - BÁO SÀI GÒN GIẢI PHÓNG",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXBsa196dk9teEpWR1QxVkhxYVVHTlk3eWJhSGYxcTBmR3g1WmZJM1M1ZHAzbXc1cXE3bXFBMkNKZ1BPdmR6OWZQMXZpWXJ3QTFialdPRjc1RnJMc3N1QXRPZzdZQzhxWV9waTVWc0RqZXVhWHVhVkV6aTIzbFBpSUlpOEFXeG4wdk84ZE82U0YxUTI2dGc?oc=5",
-      "source": "BÁO SÀI GÒN GIẢI PHÓNG",
-      "published": "2026-11-19T08:22:21+00:00",
-      "summary": "VNPT và Qualcomm ra mắt thiết bị AI Gateway Wi-Fi 8 BÁO SÀI GÒN GIẢI PHÓNG",
-      "topic": "ai"
-    },
-    {
-      "id": "17be77edb16a054c8cc8",
-      "title": "Ra mắt VNPT AI Gateway Wi-Fi 8 - Tạp chí KH&CN Việt Nam",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tUC1kRDRpaWlCeG5GQjY0Qm8xZmR0YnZRS2VUYzhoTTRZOGxUa19KOHVDQkM2RDZnWElRc1JxZ0lXaFYtaDlzSExROENIZ2pXU2lyX1poa2I2ZHVqUFBXWllGYmJsQ1A0RHc?oc=5",
-      "source": "Tạp chí KH&CN Việt Nam",
-      "published": "2026-11-19T08:16:01+00:00",
-      "summary": "Ra mắt VNPT AI Gateway Wi-Fi 8 Tạp chí KH&CN Việt Nam",
       "topic": "ai"
     }
   ]

@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-25T04:24:52.171099+00:00",
-  "status": "ok",
-  "collected_count": 336,
-  "feed_failures": [],
+  "updated_at": "2026-11-25T14:45:44.358781+00:00",
+  "status": "cached",
+  "collected_count": 0,
+  "feed_failures": [
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable",
+    "HTTP Error 503: Service Unavailable"
+  ],
   "articles": [
     {
       "id": "544a29e1b5625a27c349",
